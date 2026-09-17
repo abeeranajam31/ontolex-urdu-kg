@@ -83,8 +83,17 @@ class OntoLexGraphBuilder:
         # so an entry's provenance reflects every utterance it appeared in.
         self.graph.add((entry_uri, DCTERMS.source, Literal(source_id)))
         if term.surface != term.lemma:
-            form_uri = BASE[f"form/{_slug(term.lemma)}_{term.upos.lower()}"]
-            self.graph.add((form_uri, ONTOLEX.otherForm, Literal(term.surface, lang="ur")))
+            # ontolex:otherForm is an object property (LexicalEntry -> Form),
+            # not a literal-valued shortcut like writtenRep -- each distinct
+            # attested surface form gets its own ontolex:Form node, keyed on
+            # the surface string so repeated attestations of the same
+            # inflection reuse the same Form rather than duplicating it.
+            other_form_uri = BASE[
+                f"form/{_slug(term.lemma)}_{term.upos.lower()}/other/{_slug(term.surface)}"
+            ]
+            self.graph.add((other_form_uri, RDF.type, ONTOLEX.Form))
+            self.graph.add((other_form_uri, ONTOLEX.writtenRep, Literal(term.surface, lang="ur")))
+            self.graph.add((entry_uri, ONTOLEX.otherForm, other_form_uri))
 
         return entry_uri
 
