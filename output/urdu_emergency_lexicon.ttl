@@ -1,0 +1,2775 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix lexinfo: <http://www.lexinfo.net/ontology/3.0/lexinfo#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A2%D8%AF%D9%85%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-044" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A2%D8%AF%D9%85%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A2%D8%AF%D9%85%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A2%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-005",
+        "UEC-011",
+        "UEC-012",
+        "UEC-015",
+        "UEC-016",
+        "UEC-017",
+        "UEC-022",
+        "UEC-023",
+        "UEC-026",
+        "UEC-030",
+        "UEC-033",
+        "UEC-034",
+        "UEC-035",
+        "UEC-047",
+        "UEC-048",
+        "UEC-056",
+        "UEC-060" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A2%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%A2%D9%86%D8%A7_verb/other/%D8%A2>,
+        <http://example.org/urdu-emergency-lexicon/form/%D8%A2%D9%86%D8%A7_verb/other/%D8%A2%D8%A6%DB%8C>,
+        <http://example.org/urdu-emergency-lexicon/form/%D8%A2%D9%86%D8%A7_verb/other/%D8%A2%D8%A6%DB%8C%DA%BA>,
+        <http://example.org/urdu-emergency-lexicon/form/%D8%A2%D9%86%D8%A7_verb/other/%D8%A2%DB%8C%D8%A7> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A2%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A2%D9%86%DA%A9%DA%BE_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-002" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A2%D9%86%DA%A9%DA%BE_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A2%D9%86%DA%A9%DA%BE_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A2%DA%AF_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-028",
+        "UEC-029",
+        "UEC-030",
+        "UEC-031",
+        "UEC-032",
+        "UEC-033",
+        "UEC-034",
+        "UEC-036" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A2%DA%AF_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A2%DA%AF_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A7%D8%B3%D9%B9%DB%8C%D8%B4%D9%86_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-027" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A7%D8%B3%D9%B9%DB%8C%D8%B4%D9%86_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A7%D8%B3%D9%B9%DB%8C%D8%B4%D9%86_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A7%D9%84%D8%B1%D8%AC%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-009" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A7%D9%84%D8%B1%D8%AC%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A7%D9%84%D8%B1%D8%AC%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A7%D9%84%D9%B9%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-021" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A7%D9%84%D9%B9%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%A7%D9%84%D9%B9%D9%86%D8%A7_verb/other/%D8%A7%D9%84%D9%B9> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A7%D9%84%D9%B9%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A7%D9%86%D8%AF%D8%B1_adv> a ontolex:LexicalEntry ;
+    dct:source "UEC-034",
+        "UEC-035" ;
+    lexinfo:partOfSpeech lexinfo:adverb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A7%D9%86%D8%AF%D8%B1_adv> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A7%D9%86%D8%AF%D8%B1_adv> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A7%DA%86%D8%A7%D9%86%DA%A9_adv> a ontolex:LexicalEntry ;
+    dct:source "UEC-056" ;
+    lexinfo:partOfSpeech lexinfo:adverb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A7%DA%86%D8%A7%D9%86%DA%A9_adv> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A7%DA%86%D8%A7%D9%86%DA%A9_adv> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A7%DA%A9%DB%8C%D9%84%DB%8C_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-048" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A7%DA%A9%DB%8C%D9%84%DB%8C_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A7%DA%A9%DB%8C%D9%84%DB%8C_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A7%DB%8C%D9%85%D8%A8%D9%88%D9%84%DB%8C%D9%86%D8%B3_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-007",
+        "UEC-009",
+        "UEC-010",
+        "UEC-020" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A7%DB%8C%D9%85%D8%A8%D9%88%D9%84%DB%8C%D9%86%D8%B3_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A7%DB%8C%D9%85%D8%A8%D9%88%D9%84%DB%8C%D9%86%D8%B3_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A7%DB%8C%DA%A9%D8%B3%DB%8C%DA%88%D9%86%D9%B9_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-018",
+        "UEC-019",
+        "UEC-020",
+        "UEC-022" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A7%DB%8C%DA%A9%D8%B3%DB%8C%DA%88%D9%86%D9%B9_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A7%DB%8C%DA%A9%D8%B3%DB%8C%DA%88%D9%86%D9%B9_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A7%DB%8C%DA%A9%D8%B4%D9%86_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-009" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A7%DB%8C%DA%A9%D8%B4%D9%86_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A7%DB%8C%DA%A9%D8%B4%D9%86_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D8%A7%D8%AA_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-002",
+        "UEC-042" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%A7%D8%AA_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%A7%D8%AA_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D8%A7%D9%88%D8%B1%DA%86%DB%8C_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-028" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%A7%D9%88%D8%B1%DA%86%DB%8C_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%A7%D9%88%D8%B1%DA%86%DB%8C_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D8%A7%DB%81%D8%B1_adv> a ontolex:LexicalEntry ;
+    dct:source "UEC-036" ;
+    lexinfo:partOfSpeech lexinfo:adverb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%A7%DB%81%D8%B1_adv> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%A7%DB%81%D8%B1_adv> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D8%AA%D8%A7%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-049" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AA%D8%A7%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AA%D8%A7%D9%86%D8%A7_verb/other/%D8%A8%D8%AA%D8%A7> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%AA%D8%A7%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D8%AC%D9%84%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-029",
+        "UEC-052" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AC%D9%84%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%AC%D9%84%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D8%AC%DA%BE%D8%A7%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-028" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AC%DA%BE%D8%A7%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AC%DA%BE%D8%A7%D9%86%D8%A7_verb/other/%D8%A8%D8%AC%DA%BE%D8%A7%D9%86%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%AC%DA%BE%D8%A7%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D8%AE%D8%A7%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-003",
+        "UEC-004" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AE%D8%A7%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%AE%D8%A7%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D8%AF%D8%A8%D9%88_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-054" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AF%D8%A8%D9%88_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%AF%D8%A8%D9%88_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D8%B1%DB%8C%DA%AF%DB%8C%DA%88_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-031" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%B1%DB%8C%DA%AF%DB%8C%DA%88_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%B1%DB%8C%DA%AF%DB%8C%DA%88_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D8%B3_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-020" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%B3_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%B3_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D9%84%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-004" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%84%D8%A7_verb> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%84%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D9%84%DA%88%D9%86%DA%AF_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-057" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%84%DA%88%D9%86%DA%AF_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%84%DA%88%D9%86%DA%AF_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%90_%D8%AE%D8%AF%D8%A7_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-010",
+        "UEC-023",
+        "UEC-035",
+        "UEC-046",
+        "UEC-059" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%90_%D8%AE%D8%AF%D8%A7_noun> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%90_%D8%AE%D8%AF%D8%A7_noun/other/%D8%AE%D8%AF%D8%A7> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%90_%D8%AE%D8%AF%D8%A7_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D9%86%D8%AF_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-047",
+        "UEC-050" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%86%D8%AF_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%86%D8%AF_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D9%86%D8%AF_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-059" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%86%D8%AF_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%86%D8%AF_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D9%86%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-051" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%86%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%86%D9%86%D8%A7_verb/other/%D8%A8%D9%86> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%86%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%D9%88_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-026",
+        "UEC-055" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%88_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%88_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DA%86%D8%A7%D8%A4_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-012",
+        "UEC-024",
+        "UEC-036",
+        "UEC-060" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%86%D8%A7%D8%A4_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%86%D8%A7%D8%A4_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DA%86%D8%A7%D8%A4_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-046" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%86%D8%A7%D8%A4_verb> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%86%D8%A7%D8%A4_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DA%86%DB%81_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-003",
+        "UEC-009",
+        "UEC-035" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%86%DB%81_noun> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%86%DB%81_noun/other/%D8%A8%DA%86%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%86%DB%81_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DA%91%D8%A7_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-051",
+        "UEC-053" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%91%D8%A7_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%91%D8%A7_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DA%91%DA%BE%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-042" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%91%DA%BE%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%91%DA%BE%D9%86%D8%A7_verb/other/%D8%A8%DA%91%DA%BE%D8%AA%DB%8C> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%91%DA%BE%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DA%BE%D8%A7%D8%A6%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-019",
+        "UEC-023" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%D8%A7%D8%A6%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%BE%D8%A7%D8%A6%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DA%BE%D8%A7%DA%AF%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-044" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%D8%A7%DA%AF%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%D8%A7%DA%AF%D9%86%D8%A7_verb/other/%D8%A8%DA%BE%D8%A7%DA%AF> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%BE%D8%A7%DA%AF%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DA%BE%D8%B1%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-054" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%D8%B1%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%D8%B1%D9%86%D8%A7_verb/other/%D8%A8%DA%BE%D8%B1> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%BE%D8%B1%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DA%BE%DB%8C%D8%AC%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-009",
+        "UEC-010",
+        "UEC-020",
+        "UEC-021",
+        "UEC-031",
+        "UEC-043",
+        "UEC-045",
+        "UEC-058" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%DB%8C%D8%AC%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%DB%8C%D8%AC%D9%86%D8%A7_verb/other/%D8%A8%DA%BE%DB%8C%D8%AC%DB%8C%DA%BA> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%BE%DB%8C%D8%AC%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DB%81%D8%AA_adv> a ontolex:LexicalEntry ;
+    dct:source "UEC-007",
+        "UEC-012",
+        "UEC-019",
+        "UEC-033",
+        "UEC-054",
+        "UEC-055" ;
+    lexinfo:partOfSpeech lexinfo:adverb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%81%D8%AA_adv> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%81%D8%AA_adv> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DB%81%D9%86_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-008" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%81%D9%86_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%81%D9%86_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DB%81%DB%81%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-023" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%81%DB%81%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%81%DB%81%D9%86%D8%A7_verb/other/%D8%A8%DB%81%DB%81> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%81%DB%81%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DB%8C%D9%88%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-012" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%8C%D9%88%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%8C%D9%88%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DB%8C%D9%B9%DA%BE%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-005" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%8C%D9%B9%DA%BE%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%8C%D9%B9%DA%BE%D9%86%D8%A7_verb/other/%D8%A8%DB%8C%D9%B9%DA%BE%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%8C%D9%B9%DA%BE%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DB%92_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-022" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%92_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%92_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%A8%DB%92_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-012" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%92_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%92_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AA%D8%A7%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-029",
+        "UEC-052" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AA%D8%A7%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AA%D8%A7%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AA%D8%A7%D9%84%D8%A7_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-041" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AA%D8%A7%D9%84%D8%A7_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AA%D8%A7%D9%84%D8%A7_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AA%D8%B1%DB%8C%D9%86_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-027",
+        "UEC-049" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AA%D8%B1%DB%8C%D9%86_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AA%D8%B1%DB%8C%D9%86_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AA%D9%88%DA%91%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-038",
+        "UEC-041" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AA%D9%88%DA%91%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%AA%D9%88%DA%91%D9%86%D8%A7_verb/other/%D8%AA%D9%88%DA%91>,
+        <http://example.org/urdu-emergency-lexicon/form/%D8%AA%D9%88%DA%91%D9%86%D8%A7_verb/other/%D8%AA%D9%88%DA%91%D9%86%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AA%D9%88%DA%91%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AA%DA%BE%D8%A7%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-039" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AA%DA%BE%D8%A7%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%AA%DA%BE%D8%A7%D9%86%D8%A7_verb/other/%D8%AA%DA%BE%D8%A7%D9%86%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AA%DA%BE%D8%A7%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AA%DA%BE%D9%88%DA%91%D8%A7_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-025" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AA%DA%BE%D9%88%DA%91%D8%A7_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AA%DA%BE%D9%88%DA%91%D8%A7_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AA%DA%BE%D9%88%DA%91%DB%8C_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-005",
+        "UEC-016" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AA%DA%BE%D9%88%DA%91%DB%8C_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AA%DA%BE%D9%88%DA%91%DB%8C_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AA%DB%8C%D8%B2%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-032",
+        "UEC-059" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AA%DB%8C%D8%B2%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AA%DB%8C%D8%B2%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AA%DB%8C%D8%B2_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-055" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AA%DB%8C%D8%B2_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AA%DB%8C%D8%B2_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AC%D8%A7%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-039" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AC%D8%A7%D9%86%D8%A7_verb> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AC%D8%A7%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AC%D9%84%D8%AF%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-010",
+        "UEC-023" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D8%AF%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D8%AF%D9%86%D8%A7_verb/other/%D8%AC%D9%84%D8%AF%DB%8C> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AC%D9%84%D8%AF%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AC%D9%84%D8%AF%DB%8C_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-009",
+        "UEC-021",
+        "UEC-032",
+        "UEC-045" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D8%AF%DB%8C_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AC%D9%84%D8%AF%DB%8C_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AC%D9%84%D8%AF%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-010",
+        "UEC-012",
+        "UEC-019",
+        "UEC-022",
+        "UEC-023",
+        "UEC-034",
+        "UEC-046",
+        "UEC-048",
+        "UEC-059",
+        "UEC-060" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D8%AF%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AC%D9%84%D8%AF%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AC%D9%84%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-025",
+        "UEC-026",
+        "UEC-035" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D9%86%D8%A7_verb/other/%D8%AC%D9%84>,
+        <http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D9%86%D8%A7_verb/other/%D8%AC%D9%84%D9%86%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AC%D9%84%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AC%D9%84%D9%86_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-002" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D9%86_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AC%D9%84%D9%86_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AC%DA%BE%DA%AF%DA%91%D8%A7_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-042" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AC%DA%BE%DA%AF%DA%91%D8%A7_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AC%DA%BE%DA%AF%DA%91%D8%A7_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AD%D8%A7%D8%AF%D8%AB%DB%81_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-051" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AD%D8%A7%D8%AF%D8%AB%DB%81_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AD%D8%A7%D8%AF%D8%AB%DB%81_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AD%D9%85%D9%84%DB%81_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-046" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AD%D9%85%D9%84%DB%81_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AD%D9%85%D9%84%DB%81_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AE%D8%A7%D9%86%DB%92_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-028" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AE%D8%A7%D9%86%DB%92_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D8%A7%D9%86%DB%92_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AE%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-057" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AE%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AE%D8%B1%D8%A7%D8%A8_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-007",
+        "UEC-014" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AE%D8%B1%D8%A7%D8%A8_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D8%B1%D8%A7%D8%A8_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AE%D8%B1%D8%A7%D8%B4_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-015",
+        "UEC-017" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AE%D8%B1%D8%A7%D8%B4_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D8%B1%D8%A7%D8%B4_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AE%D8%B7%D8%B1%D9%86%D8%A7%DA%A9_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-006" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AE%D8%B7%D8%B1%D9%86%D8%A7%DA%A9_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D8%B7%D8%B1%D9%86%D8%A7%DA%A9_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AE%D8%B7%D8%B1%DB%81_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-058" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AE%D8%B7%D8%B1%DB%81_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D8%B7%D8%B1%DB%81_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AE%D9%88%D9%86_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-019",
+        "UEC-023" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AE%D9%88%D9%86_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D9%88%D9%86_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%D8%A7%D8%AE%D9%84_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-059" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%A7%D8%AE%D9%84_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D8%A7%D8%AE%D9%84_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%D8%A7%D8%AF%D8%A7_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-005" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%A7%D8%AF%D8%A7_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D8%A7%D8%AF%D8%A7_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%D8%B1%D8%AC_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-039" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%B1%D8%AC_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D8%B1%D8%AC_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%D8%B1%D8%AE%D8%AA_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-053" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%B1%D8%AE%D8%AA_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D8%B1%D8%AE%D8%AA_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%D8%B1%D8%AF_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-001",
+        "UEC-006" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%B1%D8%AF_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D8%B1%D8%AF_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%DB%81_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-041" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%DB%81_noun> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%DB%81_noun/other/%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%DB%81_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%D9%84_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-011" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%D9%84_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D9%84_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%D9%88%D8%B1%DB%81_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-011" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%D9%88%D8%B1%DB%81_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D9%88%D8%B1%DB%81_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%DA%A9%D8%A7%D9%86_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-032",
+        "UEC-042" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DA%A9%D8%A7%D9%86_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DA%A9%D8%A7%D9%86_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%DA%A9%DA%BE%D8%A7%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-003" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DA%A9%DA%BE%D8%A7%D9%86%D8%A7_verb> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DA%A9%DA%BE%D8%A7%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%DA%BE%D9%85%D8%A7%DA%A9%DB%81_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-058" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DA%BE%D9%85%D8%A7%DA%A9%DB%81_noun> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DA%BE%D9%85%D8%A7%DA%A9%DB%81_noun/other/%D8%AF%DA%BE%D9%85%D8%A7%DA%A9%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DA%BE%D9%85%D8%A7%DA%A9%DB%81_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%DA%BE%D9%88%D8%A7%DA%BA_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-025",
+        "UEC-033" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DA%BE%D9%88%D8%A7%DA%BA_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DA%BE%D9%88%D8%A7%DA%BA_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%DB%8C%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-005",
+        "UEC-006",
+        "UEC-015",
+        "UEC-026",
+        "UEC-038",
+        "UEC-040" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%8C%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DB%8C%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%DB%8C%DA%A9%DA%BE%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-030",
+        "UEC-038" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%8C%DA%A9%DA%BE%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%8C%DA%A9%DA%BE%D9%86%D8%A7_verb/other/%D8%AF%DB%8C%DA%A9%DA%BE>,
+        <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%8C%DA%A9%DA%BE%D9%86%D8%A7_verb/other/%D8%AF%DB%8C%DA%A9%DA%BE%D8%A7> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DB%8C%DA%A9%DA%BE%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%DB%92%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-013",
+        "UEC-038" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%92%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%92%D9%86%D8%A7_verb/other/%D8%AF%DB%8C%D8%A7>,
+        <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%92%D9%86%D8%A7_verb/other/%D8%AF%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DB%92%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%AF%DB%92_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-009" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%92_noun> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%92_noun/other/%D8%B1%DB%8C> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DB%92_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B1%D8%A7%D8%AA_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-037",
+        "UEC-050" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B1%D8%A7%D8%AA_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B1%D8%A7%D8%AA_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B1%D8%A7%D8%B3%D8%AA%DB%81_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-014" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B1%D8%A7%D8%B3%D8%AA%DB%81_noun> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%B1%D8%A7%D8%B3%D8%AA%DB%81_noun/other/%D8%B1%D8%A7%D8%B3%D8%AA%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B1%D8%A7%D8%B3%D8%AA%DB%81_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B1%D9%BE%D9%88%D8%B1%D9%B9_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-039" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B1%D9%BE%D9%88%D8%B1%D9%B9_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B1%D9%BE%D9%88%D8%B1%D9%B9_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B1%DA%A9%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-010",
+        "UEC-014" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B1%DA%A9%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%B1%DA%A9%D9%86%D8%A7_verb/other/%D8%B1%DA%A9> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B1%DA%A9%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B1%DB%81%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-021" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B1%DB%81%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%B1%DB%81%D9%86%D8%A7_verb/other/%D8%B1%DB%81%DB%8C> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B1%DB%81%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B2%D8%AE%D9%85%DB%8C_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-020" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B2%D8%AE%D9%85%DB%8C_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B2%D8%AE%D9%85%DB%8C_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B2%D8%AE%D9%85%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-018" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B2%D8%AE%D9%85%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B2%D8%AE%D9%85%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B2%D9%85%DB%8C%D9%86_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-052" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B2%D9%85%DB%8C%D9%86_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B2%D9%85%DB%8C%D9%86_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B2%DB%8C%D8%A7%D8%AF%DB%81_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-004",
+        "UEC-033",
+        "UEC-054" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B2%DB%8C%D8%A7%D8%AF%DB%81_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B2%DB%8C%D8%A7%D8%AF%DB%81_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B3%D8%A7%D8%A6%DB%8C%DA%A9%D9%84_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-014",
+        "UEC-016",
+        "UEC-017",
+        "UEC-037" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B3%D8%A7%D8%A6%DB%8C%DA%A9%D9%84_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B3%D8%A7%D8%A6%DB%8C%DA%A9%D9%84_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B3%D8%A7%D9%86%D8%B3_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-008",
+        "UEC-010",
+        "UEC-011",
+        "UEC-012",
+        "UEC-022" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B3%D8%A7%D9%86%D8%B3_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B3%D8%A7%D9%86%D8%B3_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B3%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-001",
+        "UEC-023" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B3%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B3%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B3%D9%BE%D9%84%D8%A7%D8%A6%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-050" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B3%D9%BE%D9%84%D8%A7%D8%A6%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B3%D9%BE%D9%84%D8%A7%D8%A6%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B3%DA%91%DA%A9_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-051" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B3%DA%91%DA%A9_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B3%DA%91%DA%A9_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B3%DB%8C%D9%84%D8%A7%D8%A8_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-056" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B3%DB%8C%D9%84%D8%A7%D8%A8_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B3%DB%8C%D9%84%D8%A7%D8%A8_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B3%DB%8C%D9%86%DB%92_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-006" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B3%DB%8C%D9%86%DB%92_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B3%DB%8C%D9%86%DB%92_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B3%DB%8C%D9%88%D8%B1%DB%8C%D8%AC_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-054" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B3%DB%8C%D9%88%D8%B1%DB%8C%D8%AC_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B3%DB%8C%D9%88%D8%B1%DB%8C%D8%AC_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B4%D8%A7%DB%8C%D8%AF_adv> a ontolex:LexicalEntry ;
+    dct:source "UEC-025",
+        "UEC-051" ;
+    lexinfo:partOfSpeech lexinfo:adverb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B4%D8%A7%DB%8C%D8%AF_adv> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B4%D8%A7%DB%8C%D8%AF_adv> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B4%D8%AE%D8%B5_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-022",
+        "UEC-040",
+        "UEC-046" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B4%D8%AE%D8%B5_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B4%D8%AE%D8%B5_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B4%D8%AF%DB%8C%D8%AF_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-009",
+        "UEC-018" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B4%D8%AF%DB%8C%D8%AF_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B4%D8%AF%DB%8C%D8%AF_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B4%D9%88%DB%81%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-011" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B4%D9%88%DB%81%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B4%D9%88%DB%81%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B4%DB%8C%D8%B4%DB%81_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-038" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B4%DB%8C%D8%B4%DB%81_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B4%DB%8C%D8%B4%DB%81_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B6%D8%B1%D9%88%D8%B1%DB%8C_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-003",
+        "UEC-039" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B6%D8%B1%D9%88%D8%B1%DB%8C_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B6%D8%B1%D9%88%D8%B1%DB%8C_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-004",
+        "UEC-007" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B9%D8%A7%D9%85_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-002" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B9%D8%A7%D9%85_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B9%D8%A7%D9%85_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B9%D9%84%D8%A7%D9%82%DB%81_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-050",
+        "UEC-056" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B9%D9%84%D8%A7%D9%82%DB%81_noun> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D8%B9%D9%84%D8%A7%D9%82%DB%81_noun/other/%D8%B9%D9%84%D8%A7%D9%82%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B9%D9%84%D8%A7%D9%82%DB%81_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-034" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%81%D8%A7%D8%A6%D8%B1%D9%86%DA%AF_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-045" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%81%D8%A7%D8%A6%D8%B1%D9%86%DA%AF_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%81%D8%A7%D8%A6%D8%B1%D9%86%DA%AF_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%81%D8%A7%D8%A6%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-027",
+        "UEC-031" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%81%D8%A7%D8%A6%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%81%D8%A7%D8%A6%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%81%D9%88%D8%B1%D8%A7%D9%8B_adv> a ontolex:LexicalEntry ;
+    dct:source "UEC-008",
+        "UEC-011",
+        "UEC-020",
+        "UEC-023",
+        "UEC-031",
+        "UEC-033",
+        "UEC-035",
+        "UEC-043",
+        "UEC-047",
+        "UEC-057",
+        "UEC-058" ;
+    lexinfo:partOfSpeech lexinfo:adverb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%81%D9%88%D8%B1%D8%A7%D9%8B_adv> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%81%D9%88%D8%B1%D8%A7%D9%8B_adv> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%81%DB%8C%DA%A9%D9%B9%D8%B1%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-033" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%81%DB%8C%DA%A9%D9%B9%D8%B1%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%81%DB%8C%DA%A9%D9%B9%D8%B1%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%82%D8%B1%DB%8C%D8%A8_adv> a ontolex:LexicalEntry ;
+    dct:source "UEC-053" ;
+    lexinfo:partOfSpeech lexinfo:adverb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%82%D8%B1%DB%8C%D8%A8_adv> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%82%D8%B1%DB%8C%D8%A8_adv> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%84%D9%88%DA%AF_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-020",
+        "UEC-024",
+        "UEC-034",
+        "UEC-045",
+        "UEC-053",
+        "UEC-056",
+        "UEC-057",
+        "UEC-060" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%84%D9%88%DA%AF_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%84%D9%88%DA%AF_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%84%D9%BE%D9%B9%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-030" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%84%D9%BE%D9%B9%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%84%D9%BE%D9%B9%D9%86%D8%A7_verb/other/%D9%84%D9%BE%D9%B9> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%84%D9%BE%D9%B9%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%84%DA%91%DA%A9%D8%A7_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-042" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%84%DA%91%DA%A9%D8%A7_noun> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%84%DA%91%DA%A9%D8%A7_noun/other/%D9%84%DA%91%DA%A9%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%84%DA%91%DA%A9%D8%A7_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%84%DA%AF%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-028",
+        "UEC-029",
+        "UEC-031",
+        "UEC-033",
+        "UEC-034",
+        "UEC-055",
+        "UEC-057" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%84%DA%AF%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%84%DA%AF%D9%86%D8%A7_verb/other/%D9%84%DA%AF>,
+        <http://example.org/urdu-emergency-lexicon/form/%D9%84%DA%AF%D9%86%D8%A7_verb/other/%D9%84%DA%AF%DB%8C> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%84%DA%AF%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%84%DB%8C%DA%A9_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-058" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%84%DB%8C%DA%A9_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%84%DB%8C%DA%A9_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%84%DB%92%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-001",
+        "UEC-008",
+        "UEC-030",
+        "UEC-044",
+        "UEC-046" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%84%DB%92%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%84%DB%92%D9%86%D8%A7_verb/other/%D9%84%DB%8C%D8%A7>,
+        <http://example.org/urdu-emergency-lexicon/form/%D9%84%DB%92%D9%86%D8%A7_verb/other/%D9%84%DB%8C%D9%86%DB%92>,
+        <http://example.org/urdu-emergency-lexicon/form/%D9%84%DB%92%D9%86%D8%A7_verb/other/%D9%84%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%84%DB%92%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%85%D8%AF%D8%AF_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-008",
+        "UEC-018",
+        "UEC-021",
+        "UEC-032",
+        "UEC-034",
+        "UEC-045",
+        "UEC-048",
+        "UEC-058" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%85%D8%AF%D8%AF_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%85%D8%AF%D8%AF_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%85%D8%AF%DA%BE%D9%85_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-012" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%85%D8%AF%DA%BE%D9%85_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%85%D8%AF%DA%BE%D9%85_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%85%D8%B4%DA%A9%D9%84_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-008" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%85%D8%B4%DA%A9%D9%84_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%85%D8%B4%DA%A9%D9%84_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%85%D8%B4%DA%A9%D9%88%DA%A9_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-040" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%85%D8%B4%DA%A9%D9%88%DA%A9_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%85%D8%B4%DA%A9%D9%88%DA%A9_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%85%D8%B9%D9%84%D9%88%D9%85_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-027" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%85%D8%B9%D9%84%D9%88%D9%85_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%85%D8%B9%D9%84%D9%88%D9%85_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%85%D9%88%D8%A8%D8%A7%D8%A6%D9%84_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-044" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%85%D9%88%D8%A8%D8%A7%D8%A6%D9%84_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%85%D9%88%D8%A8%D8%A7%D8%A6%D9%84_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%85%D9%88%D9%B9%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-014",
+        "UEC-016" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%85%D9%88%D9%B9%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%85%D9%88%D9%B9%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%85%DA%A9%DB%8C%D9%86%DA%A9_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-013" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%85%DA%A9%DB%8C%D9%86%DA%A9_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%85%DA%A9%DB%8C%D9%86%DA%A9_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%86%D8%B8%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-030" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%86%D8%B8%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%86%D8%B8%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%86%D9%85%D8%A8%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-013",
+        "UEC-027" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%86%D9%85%D8%A8%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%86%D9%85%D8%A8%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%86%DA%A9%D9%84%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-019",
+        "UEC-029",
+        "UEC-036" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%86%DA%A9%D9%84%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%86%DA%A9%D9%84%D9%86%D8%A7_verb/other/%D9%86%DA%A9%D9%84> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%86%DA%A9%D9%84%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%86%DB%81%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-024" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%86%DB%81%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%86%DB%81%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%86%DB%8C%DA%86%DB%92_adv> a ontolex:LexicalEntry ;
+    dct:source "UEC-057",
+        "UEC-060" ;
+    lexinfo:partOfSpeech lexinfo:adverb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%86%DB%8C%DA%86%DB%92_adv> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%86%DB%8C%DA%86%DB%92_adv> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%88%D8%A7%D9%84%D8%A7_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-053" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%88%D8%A7%D9%84%D8%A7_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%88%D8%A7%D9%84%D8%A7_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%88%D8%A7%D9%84%D8%AF%DB%81_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-004" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%88%D8%A7%D9%84%D8%AF%DB%81_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%88%D8%A7%D9%84%D8%AF%DB%81_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%88%D8%A7%D9%84%D8%AF_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-007" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%88%D8%A7%D9%84%D8%AF_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%88%D8%A7%D9%84%D8%AF_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%B9%D8%A7%D8%A6%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-013" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%B9%D8%A7%D8%A6%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%B9%D8%A7%D8%A6%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%B9%D8%A7%D9%86%DA%AF_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-016",
+        "UEC-021" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%B9%D8%A7%D9%86%DA%AF_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%B9%D8%A7%D9%86%DA%AF_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%B9%D9%88%D9%B9%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-057" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%B9%D9%88%D9%B9%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%B9%D9%88%D9%B9%D9%86%D8%A7_verb/other/%D9%B9%D9%88%D9%B9%D9%86%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%B9%D9%88%D9%B9%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%B9%DA%A9%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-017" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%B9%DA%A9%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%B9%DA%A9%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%B9%DA%BE%DB%8C%DA%A9_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-004" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%B9%DA%BE%DB%8C%DA%A9_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%B9%DA%BE%DB%8C%DA%A9_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%D8%A7%D8%B1%DA%A9%D9%86%DA%AF_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-015" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%D8%A7%D8%B1%DA%A9%D9%86%DA%AF_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D8%A7%D8%B1%DA%A9%D9%86%DA%AF_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%D8%A7%D8%B1%DA%A9_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-053" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%D8%A7%D8%B1%DA%A9_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D8%A7%D8%B1%DA%A9_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%D8%A7%D9%86%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-050",
+        "UEC-054",
+        "UEC-059" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%D8%A7%D9%86%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D8%A7%D9%86%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%D8%AA%DA%BE%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-060" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%D8%AA%DA%BE%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D8%AA%DA%BE%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%D9%86%DA%A9%DA%86%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-013" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%D9%86%DA%A9%DA%86%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D9%86%DA%A9%DA%86%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%D9%88%D8%B1%D8%A7_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-035" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%D9%88%D8%B1%D8%A7_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D9%88%D8%B1%D8%A7_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%D9%88%D9%84%DB%8C%D8%B3_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-043" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%D9%88%D9%84%DB%8C%D8%B3_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D9%88%D9%84%DB%8C%D8%B3_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%DA%91%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-011" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%91%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%91%D9%86%D8%A7_verb/other/%D9%BE%DA%91%D8%A7> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DA%91%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%DA%91%D9%88%D8%B3%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-026" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%91%D9%88%D8%B3%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DA%91%D9%88%D8%B3%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%DA%BE%D8%B3%D9%84%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-016" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%D8%B3%D9%84%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%D8%B3%D9%84%D9%86%D8%A7_verb/other/%D9%BE%DA%BE%D8%B3%D9%84> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DA%BE%D8%B3%D9%84%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%DA%BE%D9%86%D8%B3%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-024",
+        "UEC-034",
+        "UEC-056",
+        "UEC-060" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%D9%86%D8%B3%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%D9%86%D8%B3%D9%86%D8%A7_verb/other/%D9%BE%DA%BE%D9%86%D8%B3%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DA%BE%D9%86%D8%B3%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%DA%BE%D9%B9%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-023" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%D9%B9%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%D9%B9%D9%86%D8%A7_verb/other/%D9%BE%DA%BE%D9%B9> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DA%BE%D9%B9%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%DA%BE%DB%8C%D9%84%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-032" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%DB%8C%D9%84%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%DB%8C%D9%84%D9%86%D8%A7_verb/other/%D9%BE%DA%BE%DB%8C%D9%84> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DA%BE%DB%8C%D9%84%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%DB%81%D8%A7%DA%91%DB%8C_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-056" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D8%A7%DA%91%DB%8C_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%81%D8%A7%DA%91%DB%8C_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%DB%81%D8%A7%DA%91_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-060" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D8%A7%DA%91_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%81%D8%A7%DA%91_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%DB%81%D9%84%D8%A7_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-015" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D9%84%D8%A7_adj> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D9%84%D8%A7_adj/other/%D9%BE%DB%81%D9%84%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%81%D9%84%D8%A7_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%DB%81%D9%84%DB%92_adv> a ontolex:LexicalEntry ;
+    dct:source "UEC-006",
+        "UEC-026",
+        "UEC-038",
+        "UEC-040" ;
+    lexinfo:partOfSpeech lexinfo:adverb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D9%84%DB%92_adv> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%81%D9%84%DB%92_adv> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%DB%81%D9%86%DA%86%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-036" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D9%86%DA%86%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D9%86%DA%86%D9%86%D8%A7_verb/other/%D9%BE%DB%81%D9%86%DA%86> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%81%D9%86%DA%86%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%DB%8C%D9%86%D8%A7%DA%88%D9%88%D9%84_propn> a ontolex:LexicalEntry ;
+    dct:source "UEC-001" ;
+    lexinfo:partOfSpeech lexinfo:properNoun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%8C%D9%86%D8%A7%DA%88%D9%88%D9%84_propn> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%8C%D9%86%D8%A7%DA%88%D9%88%D9%84_propn> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%D9%BE%DB%8C%DA%86%DA%BE%D8%A7%D9%86%D8%A7_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-048" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%8C%DA%86%DA%BE%D8%A7%D9%86%D8%A7_noun> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%8C%DA%86%DA%BE%D8%A7%D9%86%D8%A7_noun/other/%D9%BE%DB%8C%DA%86%DA%BE%D8%A7> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%8C%DA%86%DA%BE%D8%A7%D9%86%D8%A7_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%86%D8%A7%D9%82%D9%88_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-046" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%D8%A7%D9%82%D9%88_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%86%D8%A7%D9%82%D9%88_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%86%D8%A7%DB%81%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-007",
+        "UEC-008",
+        "UEC-018",
+        "UEC-032" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%D8%A7%DB%81%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%D8%A7%DB%81%D9%86%D8%A7_verb/other/%DA%86%D8%A7%DB%81%DB%8C%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%86%D8%A7%DB%81%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%86%D9%86%DA%AF%D8%A7%D8%B1%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-029" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%D9%86%DA%AF%D8%A7%D8%B1%DB%8C_noun> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%D9%86%DA%AF%D8%A7%D8%B1%DB%8C_noun/other/%DA%86%D9%86%DA%AF%D8%A7%D8%B1%DB%8C%D8%A7%DA%BA> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%86%D9%86%DA%AF%D8%A7%D8%B1%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%86%D9%88%D8%B1%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-037" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%D9%88%D8%B1%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%86%D9%88%D8%B1%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%86%D9%88%D9%B9_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-016" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%D9%88%D9%B9_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%86%D9%88%D9%B9_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%86%DA%A9%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-005" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%DA%A9%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%86%DA%A9%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%86%DA%BE%D8%AA_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-036",
+        "UEC-057" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%DA%BE%D8%AA_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%86%DA%BE%D8%AA_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%86%DA%BE%D9%BE%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-045" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%DA%BE%D9%BE%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%DA%BE%D9%BE%D9%86%D8%A7_verb/other/%DA%86%DA%BE%D9%BE> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%86%DA%BE%D9%BE%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%86%DA%BE%DB%8C%D9%86%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-044" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%DA%BE%DB%8C%D9%86%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%DA%BE%DB%8C%D9%86%D9%86%D8%A7_verb/other/%DA%86%DA%BE%DB%8C%D9%86> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%86%DA%BE%DB%8C%D9%86%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%86%DB%8C%D8%B2_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-025" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%86%DB%8C%D8%B2_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%86%DB%8C%D8%B2_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%88%D8%A7%DA%A9%D9%88_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-047" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%88%D8%A7%DA%A9%D9%88_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%88%D8%A7%DA%A9%D9%88_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%88%D8%A7%DA%A9%D9%B9%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-003",
+        "UEC-004" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%88%D8%A7%DA%A9%D9%B9%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%88%D8%A7%DA%A9%D9%B9%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%88%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-029",
+        "UEC-055" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%88%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%88%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%A9%D8%A7%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-020" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%A7%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%A9%D8%A7%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%A9%D8%B1%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-005",
+        "UEC-010",
+        "UEC-019",
+        "UEC-027",
+        "UEC-028",
+        "UEC-034",
+        "UEC-041",
+        "UEC-042",
+        "UEC-043",
+        "UEC-046",
+        "UEC-048",
+        "UEC-057",
+        "UEC-059" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%86%D8%A7_verb/other/%DA%A9%D8%B1>,
+        <http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%86%D8%A7_verb/other/%DA%A9%D8%B1%DB%8C%DA%BA>,
+        <http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%86%D8%A7_verb/other/%DA%A9%DB%8C>,
+        <http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%86%D8%A7_verb/other/%DA%A9%DB%8C%D8%A7> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%A9%D8%B1%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%A9%D8%B1%D9%88%D8%A7%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-039" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%88%D8%A7%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%88%D8%A7%D9%86%D8%A7_verb/other/%DA%A9%D8%B1%D9%88%D8%A7%D9%86%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%A9%D8%B1%D9%88%D8%A7%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%A9%D8%B2%D9%86_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-017" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B2%D9%86_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%A9%D8%B2%D9%86_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%A9%D9%84_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-037",
+        "UEC-050" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%A9%D9%84_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%A9%D9%84_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%A9%D9%88%D8%B4%D8%B4_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-028",
+        "UEC-041",
+        "UEC-043" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%A9%D9%88%D8%B4%D8%B4_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%A9%D9%88%D8%B4%D8%B4_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%A9%DA%86%D9%86_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-025" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%A9%DA%86%D9%86_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%A9%DA%86%D9%86_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%A9%DA%BE%DA%91%DB%92%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-053",
+        "UEC-057" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%A9%DA%BE%DA%91%DB%92%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%DA%A9%DA%BE%DA%91%DB%92%D9%86%D8%A7_verb/other/%DA%A9%DA%BE%DA%91%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%A9%DA%BE%DA%91%DB%92%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%AF%D8%A7%D8%A4%DA%BA_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-059" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%D8%A7%D8%A4%DA%BA_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%AF%D8%A7%D8%A4%DA%BA_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%AF%D8%A7%DA%91%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-013",
+        "UEC-015",
+        "UEC-018",
+        "UEC-021",
+        "UEC-024",
+        "UEC-038" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%D8%A7%DA%91%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%AF%D8%A7%DA%91%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%AF%D8%B1%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-024",
+        "UEC-053",
+        "UEC-060" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%D8%B1%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%D8%B1%D9%86%D8%A7_verb/other/%DA%AF%D8%B1>,
+        <http://example.org/urdu-emergency-lexicon/form/%DA%AF%D8%B1%D9%86%D8%A7_verb/other/%DA%AF%D8%B1%D9%86%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%AF%D8%B1%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%AF%D8%B1%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-052" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%D8%B1%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%AF%D8%B1%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%AF%D9%84%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-040",
+        "UEC-045",
+        "UEC-052",
+        "UEC-054" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%D9%84%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%AF%D9%84%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%AF%DA%91%DA%BE%D8%A7_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-051" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%91%DA%BE%D8%A7_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%AF%DA%91%DA%BE%D8%A7_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%AF%DA%BE%D8%B1_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-026",
+        "UEC-031",
+        "UEC-035",
+        "UEC-037",
+        "UEC-043",
+        "UEC-047",
+        "UEC-055" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%BE%D8%B1_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%AF%DA%BE%D8%B1_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%AF%DA%BE%D8%B3%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-043",
+        "UEC-047" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%BE%D8%B3%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%BE%D8%B3%D9%86%D8%A7_verb/other/%DA%AF%DA%BE%D8%B3>,
+        <http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%BE%D8%B3%D9%86%D8%A7_verb/other/%DA%AF%DA%BE%D8%B3%D9%86%DB%92> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%AF%DA%BE%D8%B3%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%AF%DA%BE%D9%88%D9%85%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-040" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%BE%D9%88%D9%85%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%BE%D9%88%D9%85%D9%86%D8%A7_verb/other/%DA%AF%DA%BE%D9%88%D9%85> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%AF%DA%BE%D9%88%D9%85%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%AF%DB%8C%D8%B1%D8%A7%D8%AC_propn> a ontolex:LexicalEntry ;
+    dct:source "UEC-030" ;
+    lexinfo:partOfSpeech lexinfo:properNoun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%DB%8C%D8%B1%D8%A7%D8%AC_propn> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%AF%DB%8C%D8%B1%D8%A7%D8%AC_propn> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DA%AF%DB%8C%D8%B3_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-055",
+        "UEC-058" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DA%AF%DB%8C%D8%B3_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DA%AF%DB%8C%D8%B3_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DB%81%D8%A7%D8%AA%DA%BE_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-017" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DB%81%D8%A7%D8%AA%DA%BE_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DB%81%D8%A7%D8%AA%DA%BE_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DB%81%D8%B3%D9%BE%D8%AA%D8%A7%D9%84_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-049" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DB%81%D8%B3%D9%BE%D8%AA%D8%A7%D9%84_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DB%81%D8%B3%D9%BE%D8%AA%D8%A7%D9%84_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DB%81%D9%84%DA%A9%D8%A7_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-001",
+        "UEC-003",
+        "UEC-006",
+        "UEC-015" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%84%DA%A9%D8%A7_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DB%81%D9%84%DA%A9%D8%A7_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DB%81%D9%84%DA%A9%DB%8C_adj> a ontolex:LexicalEntry ;
+    dct:source "UEC-002",
+        "UEC-026" ;
+    lexinfo:partOfSpeech lexinfo:adjective ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%84%DA%A9%DB%8C_adj> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DB%81%D9%84%DA%A9%DB%8C_adj> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DB%81%D9%84%DA%A9%DB%8C_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-030" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%84%DA%A9%DB%8C_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DB%81%D9%84%DA%A9%DB%8C_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DB%81%D9%84_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-021" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%84_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DB%81%D9%84_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DB%81%D9%88%D8%B4_noun> a ontolex:LexicalEntry ;
+    dct:source "UEC-012",
+        "UEC-022" ;
+    lexinfo:partOfSpeech lexinfo:noun ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%88%D8%B4_noun> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DB%81%D9%88%D8%B4_noun> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DB%81%D9%88%D9%86%D8%A7_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-002",
+        "UEC-006",
+        "UEC-008",
+        "UEC-009",
+        "UEC-012",
+        "UEC-013",
+        "UEC-014",
+        "UEC-017",
+        "UEC-018",
+        "UEC-019",
+        "UEC-020",
+        "UEC-037",
+        "UEC-045",
+        "UEC-051",
+        "UEC-052",
+        "UEC-058",
+        "UEC-059" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%88%D9%86%D8%A7_verb> ;
+    ontolex:otherForm <http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%88%D9%86%D8%A7_verb/other/%DB%81%D9%88>,
+        <http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%88%D9%86%D8%A7_verb/other/%DB%81%D9%88%D8%A6%DB%8C>,
+        <http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%88%D9%86%D8%A7_verb/other/%DB%81%D9%88%D8%A7> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DB%81%D9%88%D9%86%D8%A7_verb> .
+
+<http://example.org/urdu-emergency-lexicon/entry/%DB%81%DB%92_verb> a ontolex:LexicalEntry ;
+    dct:source "UEC-003",
+        "UEC-027",
+        "UEC-039" ;
+    lexinfo:partOfSpeech lexinfo:verb ;
+    ontolex:canonicalForm <http://example.org/urdu-emergency-lexicon/form/%DB%81%DB%92_verb> ;
+    ontolex:sense <http://example.org/urdu-emergency-lexicon/sense/%DB%81%DB%92_verb> .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A2%D8%AF%D9%85%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "آدمی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A2%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "آنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A2%D9%86%D8%A7_verb/other/%D8%A2> a ontolex:Form ;
+    ontolex:writtenRep "آ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A2%D9%86%D8%A7_verb/other/%D8%A2%D8%A6%DB%8C> a ontolex:Form ;
+    ontolex:writtenRep "آئی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A2%D9%86%D8%A7_verb/other/%D8%A2%D8%A6%DB%8C%DA%BA> a ontolex:Form ;
+    ontolex:writtenRep "آئیں"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A2%D9%86%D8%A7_verb/other/%D8%A2%DB%8C%D8%A7> a ontolex:Form ;
+    ontolex:writtenRep "آیا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A2%D9%86%DA%A9%DA%BE_noun> a ontolex:Form ;
+    ontolex:writtenRep "آنکھ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A2%DA%AF_noun> a ontolex:Form ;
+    ontolex:writtenRep "آگ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A7%D8%B3%D9%B9%DB%8C%D8%B4%D9%86_noun> a ontolex:Form ;
+    ontolex:writtenRep "اسٹیشن"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A7%D9%84%D8%B1%D8%AC%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "الرجی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A7%D9%84%D9%B9%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "الٹنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A7%D9%84%D9%B9%D9%86%D8%A7_verb/other/%D8%A7%D9%84%D9%B9> a ontolex:Form ;
+    ontolex:writtenRep "الٹ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A7%D9%86%D8%AF%D8%B1_adv> a ontolex:Form ;
+    ontolex:writtenRep "اندر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A7%DA%86%D8%A7%D9%86%DA%A9_adv> a ontolex:Form ;
+    ontolex:writtenRep "اچانک"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A7%DA%A9%DB%8C%D9%84%DB%8C_adj> a ontolex:Form ;
+    ontolex:writtenRep "اکیلی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A7%DB%8C%D9%85%D8%A8%D9%88%D9%84%DB%8C%D9%86%D8%B3_noun> a ontolex:Form ;
+    ontolex:writtenRep "ایمبولینس"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A7%DB%8C%DA%A9%D8%B3%DB%8C%DA%88%D9%86%D9%B9_noun> a ontolex:Form ;
+    ontolex:writtenRep "ایکسیڈنٹ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A7%DB%8C%DA%A9%D8%B4%D9%86_noun> a ontolex:Form ;
+    ontolex:writtenRep "ایکشن"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%A7%D8%AA_noun> a ontolex:Form ;
+    ontolex:writtenRep "بات"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%A7%D9%88%D8%B1%DA%86%DB%8C_adj> a ontolex:Form ;
+    ontolex:writtenRep "باورچی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%A7%DB%81%D8%B1_adv> a ontolex:Form ;
+    ontolex:writtenRep "باہر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AA%D8%A7%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "بتانا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AA%D8%A7%D9%86%D8%A7_verb/other/%D8%A8%D8%AA%D8%A7> a ontolex:Form ;
+    ontolex:writtenRep "بتا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AC%D9%84%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "بجلی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AC%DA%BE%D8%A7%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "بجھانا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AC%DA%BE%D8%A7%D9%86%D8%A7_verb/other/%D8%A8%D8%AC%DA%BE%D8%A7%D9%86%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "بجھانے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AE%D8%A7%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "بخار"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%AF%D8%A8%D9%88_noun> a ontolex:Form ;
+    ontolex:writtenRep "بدبو"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%B1%DB%8C%DA%AF%DB%8C%DA%88_noun> a ontolex:Form ;
+    ontolex:writtenRep "بریگیڈ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D8%B3_noun> a ontolex:Form ;
+    ontolex:writtenRep "بس"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%84%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "بلا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%84%DA%88%D9%86%DA%AF_noun> a ontolex:Form ;
+    ontolex:writtenRep "بلڈنگ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%90_%D8%AE%D8%AF%D8%A7_noun> a ontolex:Form ;
+    ontolex:writtenRep "بندگانِ_خدا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%90_%D8%AE%D8%AF%D8%A7_noun/other/%D8%AE%D8%AF%D8%A7> a ontolex:Form ;
+    ontolex:writtenRep "خدا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%86%D8%AF_adj> a ontolex:Form ;
+    ontolex:writtenRep "بند"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%86%D8%AF_noun> a ontolex:Form ;
+    ontolex:writtenRep "بند"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%86%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "بننا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%86%D9%86%D8%A7_verb/other/%D8%A8%D9%86> a ontolex:Form ;
+    ontolex:writtenRep "بن"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%D9%88_noun> a ontolex:Form ;
+    ontolex:writtenRep "بو"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%86%D8%A7%D8%A4_noun> a ontolex:Form ;
+    ontolex:writtenRep "بچاؤ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%86%D8%A7%D8%A4_verb> a ontolex:Form ;
+    ontolex:writtenRep "بچاؤ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%86%DB%81_noun> a ontolex:Form ;
+    ontolex:writtenRep "بچہ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%86%DB%81_noun/other/%D8%A8%DA%86%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "بچے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%91%D8%A7_adj> a ontolex:Form ;
+    ontolex:writtenRep "بڑا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%91%DA%BE%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "بڑھنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%91%DA%BE%D9%86%D8%A7_verb/other/%D8%A8%DA%91%DA%BE%D8%AA%DB%8C> a ontolex:Form ;
+    ontolex:writtenRep "بڑھتی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%D8%A7%D8%A6%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "بھائی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%D8%A7%DA%AF%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "بھاگنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%D8%A7%DA%AF%D9%86%D8%A7_verb/other/%D8%A8%DA%BE%D8%A7%DA%AF> a ontolex:Form ;
+    ontolex:writtenRep "بھاگ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%D8%B1%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "بھرنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%D8%B1%D9%86%D8%A7_verb/other/%D8%A8%DA%BE%D8%B1> a ontolex:Form ;
+    ontolex:writtenRep "بھر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%DB%8C%D8%AC%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "بھیجنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DA%BE%DB%8C%D8%AC%D9%86%D8%A7_verb/other/%D8%A8%DA%BE%DB%8C%D8%AC%DB%8C%DA%BA> a ontolex:Form ;
+    ontolex:writtenRep "بھیجیں"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%81%D8%AA_adv> a ontolex:Form ;
+    ontolex:writtenRep "بہت"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%81%D9%86_noun> a ontolex:Form ;
+    ontolex:writtenRep "بہن"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%81%DB%81%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "بہہنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%81%DB%81%D9%86%D8%A7_verb/other/%D8%A8%DB%81%DB%81> a ontolex:Form ;
+    ontolex:writtenRep "بہہ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%8C%D9%88%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "بیوی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%8C%D9%B9%DA%BE%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "بیٹھنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%8C%D9%B9%DA%BE%D9%86%D8%A7_verb/other/%D8%A8%DB%8C%D9%B9%DA%BE%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "بیٹھے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%92_adj> a ontolex:Form ;
+    ontolex:writtenRep "بے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%A8%DB%92_noun> a ontolex:Form ;
+    ontolex:writtenRep "بے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AA%D8%A7%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "تار"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AA%D8%A7%D9%84%D8%A7_adj> a ontolex:Form ;
+    ontolex:writtenRep "تالا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AA%D8%B1%DB%8C%D9%86_adj> a ontolex:Form ;
+    ontolex:writtenRep "ترین"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AA%D9%88%DA%91%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "توڑنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AA%D9%88%DA%91%D9%86%D8%A7_verb/other/%D8%AA%D9%88%DA%91> a ontolex:Form ;
+    ontolex:writtenRep "توڑ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AA%D9%88%DA%91%D9%86%D8%A7_verb/other/%D8%AA%D9%88%DA%91%D9%86%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "توڑنے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AA%DA%BE%D8%A7%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "تھانا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AA%DA%BE%D8%A7%D9%86%D8%A7_verb/other/%D8%AA%DA%BE%D8%A7%D9%86%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "تھانے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AA%DA%BE%D9%88%DA%91%D8%A7_adj> a ontolex:Form ;
+    ontolex:writtenRep "تھوڑا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AA%DA%BE%D9%88%DA%91%DB%8C_adj> a ontolex:Form ;
+    ontolex:writtenRep "تھوڑی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AA%DB%8C%D8%B2%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "تیزی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AA%DB%8C%D8%B2_adj> a ontolex:Form ;
+    ontolex:writtenRep "تیز"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AC%D8%A7%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "جانا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D8%AF%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "جلدنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D8%AF%D9%86%D8%A7_verb/other/%D8%AC%D9%84%D8%AF%DB%8C> a ontolex:Form ;
+    ontolex:writtenRep "جلدی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D8%AF%DB%8C_adj> a ontolex:Form ;
+    ontolex:writtenRep "جلدی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D8%AF%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "جلدی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "جلنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D9%86%D8%A7_verb/other/%D8%AC%D9%84> a ontolex:Form ;
+    ontolex:writtenRep "جل"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D9%86%D8%A7_verb/other/%D8%AC%D9%84%D9%86%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "جلنے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AC%D9%84%D9%86_noun> a ontolex:Form ;
+    ontolex:writtenRep "جلن"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AC%DA%BE%DA%AF%DA%91%D8%A7_noun> a ontolex:Form ;
+    ontolex:writtenRep "جھگڑا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AD%D8%A7%D8%AF%D8%AB%DB%81_noun> a ontolex:Form ;
+    ontolex:writtenRep "حادثہ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AD%D9%85%D9%84%DB%81_noun> a ontolex:Form ;
+    ontolex:writtenRep "حملہ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AE%D8%A7%D9%86%DB%92_noun> a ontolex:Form ;
+    ontolex:writtenRep "خانے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AE%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1_adj> a ontolex:Form ;
+    ontolex:writtenRep "خبردار"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AE%D8%B1%D8%A7%D8%A8_adj> a ontolex:Form ;
+    ontolex:writtenRep "خراب"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AE%D8%B1%D8%A7%D8%B4_noun> a ontolex:Form ;
+    ontolex:writtenRep "خراش"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AE%D8%B7%D8%B1%D9%86%D8%A7%DA%A9_adj> a ontolex:Form ;
+    ontolex:writtenRep "خطرناک"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AE%D8%B7%D8%B1%DB%81_noun> a ontolex:Form ;
+    ontolex:writtenRep "خطرہ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AE%D9%88%D9%86_noun> a ontolex:Form ;
+    ontolex:writtenRep "خون"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%A7%D8%AE%D9%84_noun> a ontolex:Form ;
+    ontolex:writtenRep "داخل"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%A7%D8%AF%D8%A7_noun> a ontolex:Form ;
+    ontolex:writtenRep "دادا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%B1%D8%AC_adj> a ontolex:Form ;
+    ontolex:writtenRep "درج"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%B1%D8%AE%D8%AA_noun> a ontolex:Form ;
+    ontolex:writtenRep "درخت"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%B1%D8%AF_noun> a ontolex:Form ;
+    ontolex:writtenRep "درد"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%DB%81_noun> a ontolex:Form ;
+    ontolex:writtenRep "دروازہ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%DB%81_noun/other/%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "دروازے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%D9%84_noun> a ontolex:Form ;
+    ontolex:writtenRep "دل"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%D9%88%D8%B1%DB%81_noun> a ontolex:Form ;
+    ontolex:writtenRep "دورہ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DA%A9%D8%A7%D9%86_noun> a ontolex:Form ;
+    ontolex:writtenRep "دکان"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DA%A9%DA%BE%D8%A7%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "دکھانا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DA%BE%D9%85%D8%A7%DA%A9%DB%81_noun> a ontolex:Form ;
+    ontolex:writtenRep "دھماکہ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DA%BE%D9%85%D8%A7%DA%A9%DB%81_noun/other/%D8%AF%DA%BE%D9%85%D8%A7%DA%A9%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "دھماکے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DA%BE%D9%88%D8%A7%DA%BA_noun> a ontolex:Form ;
+    ontolex:writtenRep "دھواں"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%8C%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "دیر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%8C%DA%A9%DA%BE%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "دیکھنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%8C%DA%A9%DA%BE%D9%86%D8%A7_verb/other/%D8%AF%DB%8C%DA%A9%DA%BE> a ontolex:Form ;
+    ontolex:writtenRep "دیکھ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%8C%DA%A9%DA%BE%D9%86%D8%A7_verb/other/%D8%AF%DB%8C%DA%A9%DA%BE%D8%A7> a ontolex:Form ;
+    ontolex:writtenRep "دیکھا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%92%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "دےنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%92%D9%86%D8%A7_verb/other/%D8%AF%DB%8C%D8%A7> a ontolex:Form ;
+    ontolex:writtenRep "دیا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%92%D9%86%D8%A7_verb/other/%D8%AF%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "دے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%92_noun> a ontolex:Form ;
+    ontolex:writtenRep "دے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%AF%DB%92_noun/other/%D8%B1%DB%8C> a ontolex:Form ;
+    ontolex:writtenRep "ری"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B1%D8%A7%D8%AA_noun> a ontolex:Form ;
+    ontolex:writtenRep "رات"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B1%D8%A7%D8%B3%D8%AA%DB%81_noun> a ontolex:Form ;
+    ontolex:writtenRep "راستہ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B1%D8%A7%D8%B3%D8%AA%DB%81_noun/other/%D8%B1%D8%A7%D8%B3%D8%AA%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "راستے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B1%D9%BE%D9%88%D8%B1%D9%B9_noun> a ontolex:Form ;
+    ontolex:writtenRep "رپورٹ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B1%DA%A9%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "رکنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B1%DA%A9%D9%86%D8%A7_verb/other/%D8%B1%DA%A9> a ontolex:Form ;
+    ontolex:writtenRep "رک"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B1%DB%81%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "رہنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B1%DB%81%D9%86%D8%A7_verb/other/%D8%B1%DB%81%DB%8C> a ontolex:Form ;
+    ontolex:writtenRep "رہی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B2%D8%AE%D9%85%DB%8C_adj> a ontolex:Form ;
+    ontolex:writtenRep "زخمی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B2%D8%AE%D9%85%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "زخمی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B2%D9%85%DB%8C%D9%86_noun> a ontolex:Form ;
+    ontolex:writtenRep "زمین"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B2%DB%8C%D8%A7%D8%AF%DB%81_adj> a ontolex:Form ;
+    ontolex:writtenRep "زیادہ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B3%D8%A7%D8%A6%DB%8C%DA%A9%D9%84_noun> a ontolex:Form ;
+    ontolex:writtenRep "سائیکل"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B3%D8%A7%D9%86%D8%B3_noun> a ontolex:Form ;
+    ontolex:writtenRep "سانس"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B3%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "سر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B3%D9%BE%D9%84%D8%A7%D8%A6%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "سپلائی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B3%DA%91%DA%A9_noun> a ontolex:Form ;
+    ontolex:writtenRep "سڑک"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B3%DB%8C%D9%84%D8%A7%D8%A8_noun> a ontolex:Form ;
+    ontolex:writtenRep "سیلاب"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B3%DB%8C%D9%86%DB%92_noun> a ontolex:Form ;
+    ontolex:writtenRep "سینے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B3%DB%8C%D9%88%D8%B1%DB%8C%D8%AC_noun> a ontolex:Form ;
+    ontolex:writtenRep "سیوریج"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B4%D8%A7%DB%8C%D8%AF_adv> a ontolex:Form ;
+    ontolex:writtenRep "شاید"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B4%D8%AE%D8%B5_noun> a ontolex:Form ;
+    ontolex:writtenRep "شخص"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B4%D8%AF%DB%8C%D8%AF_adj> a ontolex:Form ;
+    ontolex:writtenRep "شدید"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B4%D9%88%DB%81%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "شوہر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B4%DB%8C%D8%B4%DB%81_noun> a ontolex:Form ;
+    ontolex:writtenRep "شیشہ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B6%D8%B1%D9%88%D8%B1%DB%8C_adj> a ontolex:Form ;
+    ontolex:writtenRep "ضروری"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_noun> a ontolex:Form ;
+    ontolex:writtenRep "طبیعت"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B9%D8%A7%D9%85_adj> a ontolex:Form ;
+    ontolex:writtenRep "عام"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B9%D9%84%D8%A7%D9%82%DB%81_noun> a ontolex:Form ;
+    ontolex:writtenRep "علاقہ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B9%D9%84%D8%A7%D9%82%DB%81_noun/other/%D8%B9%D9%84%D8%A7%D9%82%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "علاقے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_noun> a ontolex:Form ;
+    ontolex:writtenRep "عمارت"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%81%D8%A7%D8%A6%D8%B1%D9%86%DA%AF_noun> a ontolex:Form ;
+    ontolex:writtenRep "فائرنگ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%81%D8%A7%D8%A6%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "فائر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%81%D9%88%D8%B1%D8%A7%D9%8B_adv> a ontolex:Form ;
+    ontolex:writtenRep "فوراً"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%81%DB%8C%DA%A9%D9%B9%D8%B1%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "فیکٹری"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%82%D8%B1%DB%8C%D8%A8_adv> a ontolex:Form ;
+    ontolex:writtenRep "قریب"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%84%D9%88%DA%AF_noun> a ontolex:Form ;
+    ontolex:writtenRep "لوگ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%84%D9%BE%D9%B9%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "لپٹنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%84%D9%BE%D9%B9%D9%86%D8%A7_verb/other/%D9%84%D9%BE%D9%B9> a ontolex:Form ;
+    ontolex:writtenRep "لپٹ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%84%DA%91%DA%A9%D8%A7_noun> a ontolex:Form ;
+    ontolex:writtenRep "لڑکا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%84%DA%91%DA%A9%D8%A7_noun/other/%D9%84%DA%91%DA%A9%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "لڑکے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%84%DA%AF%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "لگنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%84%DA%AF%D9%86%D8%A7_verb/other/%D9%84%DA%AF> a ontolex:Form ;
+    ontolex:writtenRep "لگ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%84%DA%AF%D9%86%D8%A7_verb/other/%D9%84%DA%AF%DB%8C> a ontolex:Form ;
+    ontolex:writtenRep "لگی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%84%DB%8C%DA%A9_noun> a ontolex:Form ;
+    ontolex:writtenRep "لیک"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%84%DB%92%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "لےنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%84%DB%92%D9%86%D8%A7_verb/other/%D9%84%DB%8C%D8%A7> a ontolex:Form ;
+    ontolex:writtenRep "لیا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%84%DB%92%D9%86%D8%A7_verb/other/%D9%84%DB%8C%D9%86%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "لینے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%84%DB%92%D9%86%D8%A7_verb/other/%D9%84%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "لے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%85%D8%AF%D8%AF_noun> a ontolex:Form ;
+    ontolex:writtenRep "مدد"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%85%D8%AF%DA%BE%D9%85_noun> a ontolex:Form ;
+    ontolex:writtenRep "مدھم"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%85%D8%B4%DA%A9%D9%84_adj> a ontolex:Form ;
+    ontolex:writtenRep "مشکل"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%85%D8%B4%DA%A9%D9%88%DA%A9_adj> a ontolex:Form ;
+    ontolex:writtenRep "مشکوک"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%85%D8%B9%D9%84%D9%88%D9%85_adj> a ontolex:Form ;
+    ontolex:writtenRep "معلوم"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%85%D9%88%D8%A8%D8%A7%D8%A6%D9%84_noun> a ontolex:Form ;
+    ontolex:writtenRep "موبائل"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%85%D9%88%D9%B9%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "موٹر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%85%DA%A9%DB%8C%D9%86%DA%A9_noun> a ontolex:Form ;
+    ontolex:writtenRep "مکینک"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%86%D8%B8%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "نظر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%86%D9%85%D8%A8%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "نمبر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%86%DA%A9%D9%84%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "نکلنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%86%DA%A9%D9%84%D9%86%D8%A7_verb/other/%D9%86%DA%A9%D9%84> a ontolex:Form ;
+    ontolex:writtenRep "نکل"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%86%DB%81%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "نہر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%86%DB%8C%DA%86%DB%92_adv> a ontolex:Form ;
+    ontolex:writtenRep "نیچے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%88%D8%A7%D9%84%D8%A7_adj> a ontolex:Form ;
+    ontolex:writtenRep "والا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%88%D8%A7%D9%84%D8%AF%DB%81_noun> a ontolex:Form ;
+    ontolex:writtenRep "والدہ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%88%D8%A7%D9%84%D8%AF_noun> a ontolex:Form ;
+    ontolex:writtenRep "والد"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%B9%D8%A7%D8%A6%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "ٹائر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%B9%D8%A7%D9%86%DA%AF_noun> a ontolex:Form ;
+    ontolex:writtenRep "ٹانگ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%B9%D9%88%D9%B9%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "ٹوٹنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%B9%D9%88%D9%B9%D9%86%D8%A7_verb/other/%D9%B9%D9%88%D9%B9%D9%86%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "ٹوٹنے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%B9%DA%A9%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "ٹکر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%B9%DA%BE%DB%8C%DA%A9_adj> a ontolex:Form ;
+    ontolex:writtenRep "ٹھیک"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%D8%A7%D8%B1%DA%A9%D9%86%DA%AF_noun> a ontolex:Form ;
+    ontolex:writtenRep "پارکنگ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%D8%A7%D8%B1%DA%A9_noun> a ontolex:Form ;
+    ontolex:writtenRep "پارک"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%D8%A7%D9%86%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "پانی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%D8%AA%DA%BE%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "پتھر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%D9%86%DA%A9%DA%86%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "پنکچر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%D9%88%D8%B1%D8%A7_adj> a ontolex:Form ;
+    ontolex:writtenRep "پورا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%D9%88%D9%84%DB%8C%D8%B3_noun> a ontolex:Form ;
+    ontolex:writtenRep "پولیس"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%91%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "پڑنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%91%D9%86%D8%A7_verb/other/%D9%BE%DA%91%D8%A7> a ontolex:Form ;
+    ontolex:writtenRep "پڑا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%91%D9%88%D8%B3%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "پڑوسی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%D8%B3%D9%84%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "پھسلنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%D8%B3%D9%84%D9%86%D8%A7_verb/other/%D9%BE%DA%BE%D8%B3%D9%84> a ontolex:Form ;
+    ontolex:writtenRep "پھسل"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%D9%86%D8%B3%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "پھنسنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%D9%86%D8%B3%D9%86%D8%A7_verb/other/%D9%BE%DA%BE%D9%86%D8%B3%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "پھنسے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%D9%B9%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "پھٹنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%D9%B9%D9%86%D8%A7_verb/other/%D9%BE%DA%BE%D9%B9> a ontolex:Form ;
+    ontolex:writtenRep "پھٹ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%DB%8C%D9%84%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "پھیلنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DA%BE%DB%8C%D9%84%D9%86%D8%A7_verb/other/%D9%BE%DA%BE%DB%8C%D9%84> a ontolex:Form ;
+    ontolex:writtenRep "پھیل"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D8%A7%DA%91%DB%8C_adj> a ontolex:Form ;
+    ontolex:writtenRep "پہاڑی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D8%A7%DA%91_noun> a ontolex:Form ;
+    ontolex:writtenRep "پہاڑ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D9%84%D8%A7_adj> a ontolex:Form ;
+    ontolex:writtenRep "پہلا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D9%84%D8%A7_adj/other/%D9%BE%DB%81%D9%84%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "پہلے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D9%84%DB%92_adv> a ontolex:Form ;
+    ontolex:writtenRep "پہلے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D9%86%DA%86%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "پہنچنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%81%D9%86%DA%86%D9%86%D8%A7_verb/other/%D9%BE%DB%81%D9%86%DA%86> a ontolex:Form ;
+    ontolex:writtenRep "پہنچ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%8C%D9%86%D8%A7%DA%88%D9%88%D9%84_propn> a ontolex:Form ;
+    ontolex:writtenRep "پیناڈول"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%8C%DA%86%DA%BE%D8%A7%D9%86%D8%A7_noun> a ontolex:Form ;
+    ontolex:writtenRep "پیچھانا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%D9%BE%DB%8C%DA%86%DA%BE%D8%A7%D9%86%D8%A7_noun/other/%D9%BE%DB%8C%DA%86%DA%BE%D8%A7> a ontolex:Form ;
+    ontolex:writtenRep "پیچھا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%D8%A7%D9%82%D9%88_noun> a ontolex:Form ;
+    ontolex:writtenRep "چاقو"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%D8%A7%DB%81%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "چاہنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%D8%A7%DB%81%D9%86%D8%A7_verb/other/%DA%86%D8%A7%DB%81%DB%8C%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "چاہیے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%D9%86%DA%AF%D8%A7%D8%B1%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "چنگاری"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%D9%86%DA%AF%D8%A7%D8%B1%DB%8C_noun/other/%DA%86%D9%86%DA%AF%D8%A7%D8%B1%DB%8C%D8%A7%DA%BA> a ontolex:Form ;
+    ontolex:writtenRep "چنگاریاں"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%D9%88%D8%B1%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "چوری"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%D9%88%D9%B9_noun> a ontolex:Form ;
+    ontolex:writtenRep "چوٹ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%DA%A9%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "چکر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%DA%BE%D8%AA_noun> a ontolex:Form ;
+    ontolex:writtenRep "چھت"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%DA%BE%D9%BE%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "چھپنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%DA%BE%D9%BE%D9%86%D8%A7_verb/other/%DA%86%DA%BE%D9%BE> a ontolex:Form ;
+    ontolex:writtenRep "چھپ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%DA%BE%DB%8C%D9%86%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "چھیننا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%DA%BE%DB%8C%D9%86%D9%86%D8%A7_verb/other/%DA%86%DA%BE%DB%8C%D9%86> a ontolex:Form ;
+    ontolex:writtenRep "چھین"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%86%DB%8C%D8%B2_noun> a ontolex:Form ;
+    ontolex:writtenRep "چیز"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%88%D8%A7%DA%A9%D9%88_noun> a ontolex:Form ;
+    ontolex:writtenRep "ڈاکو"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%88%D8%A7%DA%A9%D9%B9%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "ڈاکٹر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%88%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "ڈر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%A7%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "کار"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "کرنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%86%D8%A7_verb/other/%DA%A9%D8%B1> a ontolex:Form ;
+    ontolex:writtenRep "کر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%86%D8%A7_verb/other/%DA%A9%D8%B1%DB%8C%DA%BA> a ontolex:Form ;
+    ontolex:writtenRep "کریں"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%86%D8%A7_verb/other/%DA%A9%DB%8C> a ontolex:Form ;
+    ontolex:writtenRep "کی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%86%D8%A7_verb/other/%DA%A9%DB%8C%D8%A7> a ontolex:Form ;
+    ontolex:writtenRep "کیا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%88%D8%A7%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "کروانا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B1%D9%88%D8%A7%D9%86%D8%A7_verb/other/%DA%A9%D8%B1%D9%88%D8%A7%D9%86%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "کروانے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%D8%B2%D9%86_noun> a ontolex:Form ;
+    ontolex:writtenRep "کزن"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%D9%84_noun> a ontolex:Form ;
+    ontolex:writtenRep "کل"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%D9%88%D8%B4%D8%B4_noun> a ontolex:Form ;
+    ontolex:writtenRep "کوشش"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%DA%86%D9%86_noun> a ontolex:Form ;
+    ontolex:writtenRep "کچن"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%DA%BE%DA%91%DB%92%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "کھڑےنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%A9%DA%BE%DA%91%DB%92%D9%86%D8%A7_verb/other/%DA%A9%DA%BE%DA%91%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "کھڑے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%D8%A7%D8%A4%DA%BA_noun> a ontolex:Form ;
+    ontolex:writtenRep "گاؤں"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%D8%A7%DA%91%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "گاڑی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%D8%B1%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "گرنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%D8%B1%D9%86%D8%A7_verb/other/%DA%AF%D8%B1> a ontolex:Form ;
+    ontolex:writtenRep "گر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%D8%B1%D9%86%D8%A7_verb/other/%DA%AF%D8%B1%D9%86%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "گرنے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%D8%B1%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "گری"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%D9%84%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "گلی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%91%DA%BE%D8%A7_noun> a ontolex:Form ;
+    ontolex:writtenRep "گڑھا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%BE%D8%B1_noun> a ontolex:Form ;
+    ontolex:writtenRep "گھر"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%BE%D8%B3%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "گھسنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%BE%D8%B3%D9%86%D8%A7_verb/other/%DA%AF%DA%BE%D8%B3> a ontolex:Form ;
+    ontolex:writtenRep "گھس"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%BE%D8%B3%D9%86%D8%A7_verb/other/%DA%AF%DA%BE%D8%B3%D9%86%DB%92> a ontolex:Form ;
+    ontolex:writtenRep "گھسنے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%BE%D9%88%D9%85%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "گھومنا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%DA%BE%D9%88%D9%85%D9%86%D8%A7_verb/other/%DA%AF%DA%BE%D9%88%D9%85> a ontolex:Form ;
+    ontolex:writtenRep "گھوم"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%DB%8C%D8%B1%D8%A7%D8%AC_propn> a ontolex:Form ;
+    ontolex:writtenRep "گیراج"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DA%AF%DB%8C%D8%B3_noun> a ontolex:Form ;
+    ontolex:writtenRep "گیس"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DB%81%D8%A7%D8%AA%DA%BE_noun> a ontolex:Form ;
+    ontolex:writtenRep "ہاتھ"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DB%81%D8%B3%D9%BE%D8%AA%D8%A7%D9%84_noun> a ontolex:Form ;
+    ontolex:writtenRep "ہسپتال"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%84%DA%A9%D8%A7_adj> a ontolex:Form ;
+    ontolex:writtenRep "ہلکا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%84%DA%A9%DB%8C_adj> a ontolex:Form ;
+    ontolex:writtenRep "ہلکی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%84%DA%A9%DB%8C_noun> a ontolex:Form ;
+    ontolex:writtenRep "ہلکی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%84_noun> a ontolex:Form ;
+    ontolex:writtenRep "ہل"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%88%D8%B4_noun> a ontolex:Form ;
+    ontolex:writtenRep "ہوش"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%88%D9%86%D8%A7_verb> a ontolex:Form ;
+    ontolex:writtenRep "ہونا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%88%D9%86%D8%A7_verb/other/%DB%81%D9%88> a ontolex:Form ;
+    ontolex:writtenRep "ہو"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%88%D9%86%D8%A7_verb/other/%DB%81%D9%88%D8%A6%DB%8C> a ontolex:Form ;
+    ontolex:writtenRep "ہوئی"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DB%81%D9%88%D9%86%D8%A7_verb/other/%DB%81%D9%88%D8%A7> a ontolex:Form ;
+    ontolex:writtenRep "ہوا"@ur .
+
+<http://example.org/urdu-emergency-lexicon/form/%DB%81%DB%92_verb> a ontolex:Form ;
+    ontolex:writtenRep "ہے"@ur .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A2%D8%AF%D9%85%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A2%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A2%D9%86%DA%A9%DA%BE_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A2%DA%AF_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A7%D8%B3%D9%B9%DB%8C%D8%B4%D9%86_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A7%D9%84%D8%B1%D8%AC%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A7%D9%84%D9%B9%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A7%D9%86%D8%AF%D8%B1_adv> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A7%DA%86%D8%A7%D9%86%DA%A9_adv> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A7%DA%A9%DB%8C%D9%84%DB%8C_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A7%DB%8C%D9%85%D8%A8%D9%88%D9%84%DB%8C%D9%86%D8%B3_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A7%DB%8C%DA%A9%D8%B3%DB%8C%DA%88%D9%86%D9%B9_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A7%DB%8C%DA%A9%D8%B4%D9%86_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%A7%D8%AA_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%A7%D9%88%D8%B1%DA%86%DB%8C_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%A7%DB%81%D8%B1_adv> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%AA%D8%A7%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%AC%D9%84%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%AC%DA%BE%D8%A7%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%AE%D8%A7%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%AF%D8%A8%D9%88_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%B1%DB%8C%DA%AF%DB%8C%DA%88_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D8%B3_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%84%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%84%DA%88%D9%86%DA%AF_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%90_%D8%AE%D8%AF%D8%A7_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%86%D8%AF_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%86%D8%AF_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%86%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%D9%88_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%86%D8%A7%D8%A4_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%86%D8%A7%D8%A4_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%86%DB%81_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%91%D8%A7_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%91%DA%BE%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%BE%D8%A7%D8%A6%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%BE%D8%A7%DA%AF%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%BE%D8%B1%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DA%BE%DB%8C%D8%AC%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%81%D8%AA_adv> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%81%D9%86_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%81%DB%81%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%8C%D9%88%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%8C%D9%B9%DA%BE%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%92_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%A8%DB%92_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AA%D8%A7%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AA%D8%A7%D9%84%D8%A7_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AA%D8%B1%DB%8C%D9%86_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AA%D9%88%DA%91%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AA%DA%BE%D8%A7%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AA%DA%BE%D9%88%DA%91%D8%A7_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AA%DA%BE%D9%88%DA%91%DB%8C_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AA%DB%8C%D8%B2%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AA%DB%8C%D8%B2_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AC%D8%A7%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AC%D9%84%D8%AF%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AC%D9%84%D8%AF%DB%8C_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AC%D9%84%D8%AF%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AC%D9%84%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AC%D9%84%D9%86_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AC%DA%BE%DA%AF%DA%91%D8%A7_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AD%D8%A7%D8%AF%D8%AB%DB%81_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AD%D9%85%D9%84%DB%81_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D8%A7%D9%86%DB%92_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D8%B1%D8%A7%D8%A8_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D8%B1%D8%A7%D8%B4_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D8%B7%D8%B1%D9%86%D8%A7%DA%A9_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D8%B7%D8%B1%DB%81_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AE%D9%88%D9%86_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D8%A7%D8%AE%D9%84_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D8%A7%D8%AF%D8%A7_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D8%B1%D8%AC_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D8%B1%D8%AE%D8%AA_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D8%B1%D8%AF_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%DB%81_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D9%84_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%D9%88%D8%B1%DB%81_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DA%A9%D8%A7%D9%86_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DA%A9%DA%BE%D8%A7%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DA%BE%D9%85%D8%A7%DA%A9%DB%81_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DA%BE%D9%88%D8%A7%DA%BA_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DB%8C%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DB%8C%DA%A9%DA%BE%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DB%92%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%AF%DB%92_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B1%D8%A7%D8%AA_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B1%D8%A7%D8%B3%D8%AA%DB%81_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B1%D9%BE%D9%88%D8%B1%D9%B9_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B1%DA%A9%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B1%DB%81%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B2%D8%AE%D9%85%DB%8C_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B2%D8%AE%D9%85%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B2%D9%85%DB%8C%D9%86_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B2%DB%8C%D8%A7%D8%AF%DB%81_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B3%D8%A7%D8%A6%DB%8C%DA%A9%D9%84_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B3%D8%A7%D9%86%D8%B3_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B3%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B3%D9%BE%D9%84%D8%A7%D8%A6%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B3%DA%91%DA%A9_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B3%DB%8C%D9%84%D8%A7%D8%A8_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B3%DB%8C%D9%86%DB%92_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B3%DB%8C%D9%88%D8%B1%DB%8C%D8%AC_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B4%D8%A7%DB%8C%D8%AF_adv> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B4%D8%AE%D8%B5_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B4%D8%AF%DB%8C%D8%AF_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B4%D9%88%DB%81%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B4%DB%8C%D8%B4%DB%81_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B6%D8%B1%D9%88%D8%B1%DB%8C_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B9%D8%A7%D9%85_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B9%D9%84%D8%A7%D9%82%DB%81_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%81%D8%A7%D8%A6%D8%B1%D9%86%DA%AF_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%81%D8%A7%D8%A6%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%81%D9%88%D8%B1%D8%A7%D9%8B_adv> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%81%DB%8C%DA%A9%D9%B9%D8%B1%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%82%D8%B1%DB%8C%D8%A8_adv> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%84%D9%88%DA%AF_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%84%D9%BE%D9%B9%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%84%DA%91%DA%A9%D8%A7_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%84%DA%AF%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%84%DB%8C%DA%A9_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%84%DB%92%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%85%D8%AF%D8%AF_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%85%D8%AF%DA%BE%D9%85_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%85%D8%B4%DA%A9%D9%84_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%85%D8%B4%DA%A9%D9%88%DA%A9_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%85%D8%B9%D9%84%D9%88%D9%85_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%85%D9%88%D8%A8%D8%A7%D8%A6%D9%84_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%85%D9%88%D9%B9%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%85%DA%A9%DB%8C%D9%86%DA%A9_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%86%D8%B8%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%86%D9%85%D8%A8%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%86%DA%A9%D9%84%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%86%DB%81%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%86%DB%8C%DA%86%DB%92_adv> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%88%D8%A7%D9%84%D8%A7_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%88%D8%A7%D9%84%D8%AF%DB%81_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%88%D8%A7%D9%84%D8%AF_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%B9%D8%A7%D8%A6%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%B9%D8%A7%D9%86%DA%AF_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%B9%D9%88%D9%B9%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%B9%DA%A9%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%B9%DA%BE%DB%8C%DA%A9_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D8%A7%D8%B1%DA%A9%D9%86%DA%AF_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D8%A7%D8%B1%DA%A9_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D8%A7%D9%86%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D8%AA%DA%BE%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D9%86%DA%A9%DA%86%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D9%88%D8%B1%D8%A7_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%D9%88%D9%84%DB%8C%D8%B3_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DA%91%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DA%91%D9%88%D8%B3%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DA%BE%D8%B3%D9%84%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DA%BE%D9%86%D8%B3%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DA%BE%D9%B9%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DA%BE%DB%8C%D9%84%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%81%D8%A7%DA%91%DB%8C_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%81%D8%A7%DA%91_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%81%D9%84%D8%A7_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%81%D9%84%DB%92_adv> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%81%D9%86%DA%86%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%8C%D9%86%D8%A7%DA%88%D9%88%D9%84_propn> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%D9%BE%DB%8C%DA%86%DA%BE%D8%A7%D9%86%D8%A7_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%86%D8%A7%D9%82%D9%88_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%86%D8%A7%DB%81%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%86%D9%86%DA%AF%D8%A7%D8%B1%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%86%D9%88%D8%B1%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%86%D9%88%D9%B9_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%86%DA%A9%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%86%DA%BE%D8%AA_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%86%DA%BE%D9%BE%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%86%DA%BE%DB%8C%D9%86%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%86%DB%8C%D8%B2_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%88%D8%A7%DA%A9%D9%88_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%88%D8%A7%DA%A9%D9%B9%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%88%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%A9%D8%A7%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%A9%D8%B1%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%A9%D8%B1%D9%88%D8%A7%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%A9%D8%B2%D9%86_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%A9%D9%84_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%A9%D9%88%D8%B4%D8%B4_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%A9%DA%86%D9%86_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%A9%DA%BE%DA%91%DB%92%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%AF%D8%A7%D8%A4%DA%BA_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%AF%D8%A7%DA%91%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%AF%D8%B1%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%AF%D8%B1%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%AF%D9%84%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%AF%DA%91%DA%BE%D8%A7_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%AF%DA%BE%D8%B1_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%AF%DA%BE%D8%B3%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%AF%DA%BE%D9%88%D9%85%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%AF%DB%8C%D8%B1%D8%A7%D8%AC_propn> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DA%AF%DB%8C%D8%B3_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DB%81%D8%A7%D8%AA%DA%BE_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DB%81%D8%B3%D9%BE%D8%AA%D8%A7%D9%84_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DB%81%D9%84%DA%A9%D8%A7_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DB%81%D9%84%DA%A9%DB%8C_adj> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DB%81%D9%84%DA%A9%DB%8C_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DB%81%D9%84_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DB%81%D9%88%D8%B4_noun> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DB%81%D9%88%D9%86%D8%A7_verb> a ontolex:LexicalSense .
+
+<http://example.org/urdu-emergency-lexicon/sense/%DB%81%DB%92_verb> a ontolex:LexicalSense .
+
