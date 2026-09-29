@@ -1,6 +1,28 @@
 # EMLDS Hindustani lexicographical data on Wikidata
 
-This folder documents the Wikidata Lexeme contribution made for the EMLDS (emergency-domain) Urdu-script vocabulary, and a proposed, source-backed enrichment of it. **Nothing in this folder edits Wikidata.** The proposal is waiting for human review.
+This folder documents the Wikidata Lexeme contribution made for the EMLDS (emergency-domain) Urdu-script vocabulary, and the source-backed enrichment that followed it.
+
+## Summary
+
+193 candidates were checked, 117 new lexemes were created, and 26 of them were then enriched from dictionary sources. The results were validated with SPARQL.
+
+| Stage | Result |
+|---|---|
+| Candidate lemmas checked against existing Wikidata lexemes | 193 |
+| New Hindustani (Q11051) lexemes created | 117 (L1732271 to L1732387) |
+| Lexemes enriched on 29 September 2026 | 26 |
+| Senses added, each with an English gloss | 26 |
+| Concept links added (P5137, on the sense) | 12 |
+| Grammatical information added | 15 genders (P5185) and 6 transitivity values (P9295) |
+| Dictionary references added | 25 Platts pages (P1343 + P304) and 7 Urdu Lughat IDs (P11350) |
+| Usage examples added (P5831, qualifier P6072, referenced to Urdu Lughat) | 2 |
+| Planned changes applied and verified by re-fetching | 93 of 93, in 40 revisions |
+
+- **Change records:** every change, with its source and revision ID, is in `final/applied_changes.csv`. The input list is `final/final_wikidata_edits.csv`.
+- **Left out on purpose:** uncertain items were not edited. These are بجلی, الرجی, زخمی (noun), دورہ, گھسنا, the loanwords without a dictionary gender, IPA, Hindi lemmas and generated forms. They remain review items in `enriched-lexemes.csv`.
+- **Checking the result:** query `sparql/04_enriched_lexemes.rq` lists the enriched lexemes as they stand on Wikidata.
+
+The sections below describe the audit that led to the edit list.
 
 ## What was contributed
 
@@ -89,7 +111,11 @@ Run the queries at https://query.wikidata.org/:
 
 1. **`01_contributed_lexemes.rq`:** the 117 lexemes with language, category, and sense and form counts.
 2. **`02_category_summary.rq`:** counts by language and category, plus how many lexemes have a sense, gender (P5185) and a Urdu Lughat ID (P11350). On 29 September 2026 it returned Hindustani nouns 75, verbs 21, adjectives 16 and adverbs 5, with 0 in each of the three coverage columns.
-3. **`03_senses_and_examples.rq`:** senses, glosses (`skos:definition`), P5137 items, and usage examples on the sense with their P248 source. It returns 0 rows until senses are added.
+3. **`03_senses_and_examples.rq`:** senses, glosses (`skos:definition`), P5137 items, and usage examples on the sense with their P248 source. It returns 0 rows until senses are added. To check the query pattern, I ran it with the existing lexeme L1082246 added. It returned that lexeme's senses, glosses and a usage example sourced to Nur ul-Lughat.
+
+Query 01 was run on 29 September 2026, before enrichment, and returned 117 rows, each with 0 senses.
+
+4. **`04_enriched_lexemes.rq`:** the lexemes that now have a sense, with their English gloss, concept link, gender or transitivity, Platts page, Urdu Lughat ID and number of usage examples.
 
 All three use the RDF model Wikidata publishes for lexemes: `ontolex:LexicalEntry`, `dct:language`, `wikibase:lexicalCategory`, `wikibase:lemma`, `ontolex:sense` and `ontolex:lexicalForm`.
 

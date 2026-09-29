@@ -142,7 +142,39 @@ form and record each `L…` id in `lexeme_id`.
 
 ## Wikidata lexicographical contribution
 
-193 candidate lemmas were checked against Wikidata. 117 new lexemes were created (L1732271 to L1732387, user Abxxra), and about 26 of them were carefully selected for enrichment. The enrichment edits are proposed and have not yet been applied to Wikidata. Sources and SPARQL are used for validation. The proposal, audit and report are in [`docs/wikidata-enrichment/`](docs/wikidata-enrichment/).
+193 candidate lemmas were checked against Wikidata. 117 new lexemes were created (L1732271 to L1732387, user Abxxra) and 26 existing lexemes were enriched with 40 revisions. The edits are applied on Wikidata, not just proposed.
+
+The enrichment added 26 senses (each with an English gloss), 12 concept links (P5137), 15 genders (P5185), 6 transitivity values (P9295), 32 sources (25 Platts page references via P1343 and 7 Urdu Lughat IDs via P11350) and 2 usage examples (فوراً and بخار, referenced to Urdu Lughat). All 93 planned changes were verified by re-fetching the lexemes; none were rejected.
+
+The disputed words (بجلی, الرجی, زخمی as a noun, دورہ, گھسنا and the loanwords) were left out on purpose and remain review items.
+
+### Contents of `docs/wikidata-enrichment/`
+
+- `README.md`: summary and how the contribution was made
+- `REPORT.md`: full report
+- `final_wikidata_edits.csv`: the planned edits
+- `applied_changes.csv`: the changes actually applied and verified
+- `apply_edits.py`: script used to apply the edits
+- `audit_117.csv`: audit of the 117 created lexemes
+- `enriched-lexemes.csv`: the enriched lexemes
+- `sparql/`: SPARQL queries against the Wikidata Query Service
+
+### SPARQL queries
+
+- `01_contributed_lexemes.rq`: the contributed lexemes (verified)
+- `02_category_summary.rq`: summary by lexical category (verified)
+- `03_senses_and_examples.rq`: senses and usage examples. It was rate-limited by the endpoint and has not been re-verified.
+- `04_enriched_lexemes.rq`: the enriched lexemes (verified)
+
+To run one, open https://query.wikidata.org/, paste the file contents and press Run. Or from a shell:
+
+```bash
+curl -G https://query.wikidata.org/sparql \
+  -H "Accept: text/csv" -H "User-Agent: ontolex-urdu-kg" \
+  --data-urlencode query@docs/wikidata-enrichment/sparql/01_contributed_lexemes.rq
+```
+
+If the endpoint returns HTTP 429, wait and retry.
 
 ## License
 

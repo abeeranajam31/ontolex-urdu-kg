@@ -1,0 +1,94 @@
+lexeme_id,lemma,target,change,value,source,revision_id,verified,status
+L1732271,فوراً,L1732271,P11350,190251,UL entry fetched and matched by headword and sense,2550903018,yes,applied
+L1732271,فوراً,L1732271-S1,sense + gloss (en),"immediately, at once",UL 190251,2550903018,yes,applied
+L1732271,فوراً,L1732271,P5831 (qualifier P6072 L1732271-S1),آپ نے لعابِ دہن لگا دیا فوراً وہ تکلیف جاتی رہی,"خیابان آفرینش، ۵۲ (1887), quoted in Urdu Lughat (ref P248 Q18625803, qualifier P6072)",2550903061,yes,applied
+L1732272,جلدی,L1732272,P1343,Q108916279,Platts entry fetched from DSAL,2550903123,yes,applied
+L1732272,جلدی,L1732272,P11350,15165,UL entry fetched and matched by headword and sense,2550903123,yes,applied
+L1732272,جلدی,L1732272-S1,sense + gloss (en),"quickly, hastily","UL 15165 (adverb); PL p.387 (noun, with adverbial use)",2550903123,yes,applied
+L1732273,مدد,L1732273,P5185,Q1775415,PL s.f.; UL امث; WT f,2550903162,yes,applied
+L1732273,مدد,L1732273,P1343,Q108916279,Platts entry fetched from DSAL,2550903162,yes,applied
+L1732273,مدد,L1732273,P11350,83708,UL entry fetched and matched by headword and sense,2550903162,yes,applied
+L1732273,مدد,L1732273-S1,sense + gloss (en),"help, assistance, aid",PL p.1015; UL 83708 s.1; WT,2550903162,yes,applied
+L1732274,سانس,L1732274,P5185,Q1775415,PL s.f.; WT f,2550903208,yes,applied
+L1732274,سانس,L1732274,P1343,Q108916279,Platts entry fetched from DSAL,2550903208,yes,applied
+L1732274,سانس,L1732274,P11350,146734,UL entry fetched and matched by headword and sense,2550903208,yes,applied
+L1732274,سانس,L1732274-S1,sense + gloss (en),"breath, breathing",PL p.629; UL 146734 s.1; WT,2550903208,yes,applied
+L1732274,سانس,L1732274-S1,P5137,Q9530,Wikidata item description checked,2550903250,yes,applied
+L1732282,بخار,L1732282,P5185,Q499327,PL s.m.; UL امذ; WT m,2550903302,yes,applied
+L1732282,بخار,L1732282,P1343,Q108916279,Platts entry fetched from DSAL,2550903302,yes,applied
+L1732282,بخار,L1732282,P11350,45868,UL entry fetched and matched by headword and sense,2550903302,yes,applied
+L1732282,بخار,L1732282-S1,sense + gloss (en),fever,PL p.138; UL 45868 s.3; WT,2550903302,yes,applied
+L1732282,بخار,L1732282-S1,P5137,Q38933,Wikidata item description checked,2550903333,yes,applied
+L1732282,بخار,L1732282,P5831 (qualifier P6072 L1732282-S1),برسٹل میں انفلوئنزا کی مریض ایک لڑکی کا بخار ۱۱۴ درجے تک پہنچ گیا,"سیرۃ النبی، ج ۳، ص ۱۳۷ (1923), quoted in Urdu Lughat (ref P248 Q18625803, qualifier P6072)",2550903386,yes,applied
+L1732286,توڑنا,L1732286,P9295,Q116946936,PL v.t.; WT t,2550903442,yes,applied
+L1732286,توڑنا,L1732286,P1343,Q108916279,Platts entry fetched from DSAL,2550903442,yes,applied
+L1732286,توڑنا,L1732286,P11350,62936,UL entry fetched and matched by headword and sense,2550903442,yes,applied
+L1732286,توڑنا,L1732286-S1,sense + gloss (en),to break,PL p.343; UL 62936 s.1; WT,2550903442,yes,applied
+L1732287,درد,L1732287,P5185,Q499327,PL s.m.; WT m,2550903482,yes,applied
+L1732287,درد,L1732287,P1343,Q108916279,Platts entry fetched from DSAL,2550903482,yes,applied
+L1732287,درد,L1732287-S1,sense + gloss (en),"pain, ache",PL p.511; WT,2550903482,yes,applied
+L1732287,درد,L1732287-S1,P5137,Q81938,Wikidata item description checked,2550903526,yes,applied
+L1732290,شدید,L1732290,P1343,Q108916279,Platts entry fetched from DSAL,2550903581,yes,applied
+L1732290,شدید,L1732290-S1,sense + gloss (en),"severe, intense, violent",PL p.723,2550903581,yes,applied
+L1732296,ہوش,L1732296,P5185,Q499327,PL s.m.; WT m,2550903609,yes,applied
+L1732296,ہوش,L1732296,P1343,Q108916279,Platts entry fetched from DSAL,2550903609,yes,applied
+L1732296,ہوش,L1732296-S1,sense + gloss (en),"consciousness, senses",PL p.1241; WT,2550903609,yes,applied
+L1732296,ہوش,L1732296-S1,P5137,Q7087,Wikidata item description checked,2550903657,yes,applied
+L1732300,اچانک,L1732300,P1343,Q108916279,Platts entry fetched from DSAL,2550903705,yes,applied
+L1732300,اچانک,L1732300-S1,sense + gloss (en),"suddenly, unexpectedly",PL p.26; WT,2550903705,yes,applied
+L1732312,حادثہ,L1732312,P5185,Q499327,PL s.m.; WT m,2550903750,yes,applied
+L1732312,حادثہ,L1732312,P1343,Q108916279,Platts entry fetched from DSAL,2550903750,yes,applied
+L1732312,حادثہ,L1732312,P11350,91290,UL entry fetched and matched by headword and sense,2550903750,yes,applied
+L1732312,حادثہ,L1732312-S1,sense + gloss (en),"accident, mishap, calamity",PL p.472; UL 91290; WT,2550903750,yes,applied
+L1732312,حادثہ,L1732312-S1,P5137,Q171558,Wikidata item description checked,2550903785,yes,applied
+L1732313,حملہ,L1732313,P5185,Q499327,PL s.m.; WT m,2550903829,yes,applied
+L1732313,حملہ,L1732313,P1343,Q108916279,Platts entry fetched from DSAL,2550903829,yes,applied
+L1732313,حملہ,L1732313-S1,sense + gloss (en),"attack, assault",PL p.481; WT,2550903829,yes,applied
+L1732313,حملہ,L1732313-S1,P5137,Q1174599,Wikidata item description checked,2550903860,yes,applied
+L1732321,زخمی,L1732321,P1343,Q108916279,Platts entry fetched from DSAL,2550903914,yes,applied
+L1732321,زخمی,L1732321-S1,sense + gloss (en),"wounded, injured",PL p.615,2550903914,yes,applied
+L1732324,سیلاب,L1732324,P5185,Q499327,PL s.m.; WT m,2550903965,yes,applied
+L1732324,سیلاب,L1732324,P1343,Q108916279,Platts entry fetched from DSAL,2550903965,yes,applied
+L1732324,سیلاب,L1732324-S1,sense + gloss (en),"flood, inundation",PL p.712; WT,2550903965,yes,applied
+L1732324,سیلاب,L1732324-S1,P5137,Q8068,Wikidata item description checked,2550904008,yes,applied
+L1732327,عمارت,L1732327,P5185,Q1775415,PL s.f.; WT f,2550904053,yes,applied
+L1732327,عمارت,L1732327,P1343,Q108916279,Platts entry fetched from DSAL,2550904053,yes,applied
+L1732327,عمارت,L1732327-S1,sense + gloss (en),building,PL p.765; WT,2550904053,yes,applied
+L1732327,عمارت,L1732327-S1,P5137,Q41176,Wikidata item description checked,2550904100,yes,applied
+L1732343,پھیلنا,L1732343,P9295,Q116946937,PL v.n.,2550904158,yes,applied
+L1732343,پھیلنا,L1732343,P1343,Q108916279,Platts entry fetched from DSAL,2550904158,yes,applied
+L1732343,پھیلنا,L1732343-S1,sense + gloss (en),to spread,PL p.294,2550904158,yes,applied
+L1732345,پہنچنا,L1732345,P9295,Q116946937,PL v.n.; WT,2550904214,yes,applied
+L1732345,پہنچنا,L1732345,P1343,Q108916279,Platts entry fetched from DSAL,2550904214,yes,applied
+L1732345,پہنچنا,L1732345-S1,sense + gloss (en),"to arrive, reach",PL p.290; WT,2550904214,yes,applied
+L1732348,چنگاری,L1732348,P5185,Q1775415,PL s.f.; existing plural form چنگاریاں fits -ī feminine paradigm,2550904274,yes,applied
+L1732348,چنگاری,L1732348,P1343,Q108916279,Platts entry fetched from DSAL,2550904274,yes,applied
+L1732348,چنگاری,L1732348-S1,sense + gloss (en),spark (of fire),PL p.445,2550904274,yes,applied
+L1732358,پھنسنا,L1732358,P9295,Q116946937,PL v.n.,2550904310,yes,applied
+L1732358,پھنسنا,L1732358,P1343,Q108916279,Platts entry fetched from DSAL,2550904310,yes,applied
+L1732358,پھنسنا,L1732358-S1,sense + gloss (en),"to be caught, get stuck, be trapped",PL p.290,2550904310,yes,applied
+L1732359,گلی,L1732359,P5185,Q1775415,PL s.f.; WT f,2550904346,yes,applied
+L1732359,گلی,L1732359,P1343,Q108916279,Platts entry fetched from DSAL,2550904346,yes,applied
+L1732359,گلی,L1732359-S1,sense + gloss (en),"lane, narrow street, alley",PL p.914; WT,2550904346,yes,applied
+L1732359,گلی,L1732359-S1,P5137,Q1251403,Wikidata item description checked,2550904386,yes,applied
+L1732363,خراش,L1732363,P5185,Q1775415,PL s.f.; WT f,2550904426,yes,applied
+L1732363,خراش,L1732363,P1343,Q108916279,Platts entry fetched from DSAL,2550904426,yes,applied
+L1732363,خراش,L1732363-S1,sense + gloss (en),"scratch, abrasion",PL p.488; WT,2550904426,yes,applied
+L1732364,ٹانگ,L1732364,P5185,Q1775415,PL s.f.; WT f,2550904463,yes,applied
+L1732364,ٹانگ,L1732364,P1343,Q108916279,Platts entry fetched from DSAL,2550904463,yes,applied
+L1732364,ٹانگ,L1732364-S1,sense + gloss (en),leg,PL p.355; WT,2550904463,yes,applied
+L1732364,ٹانگ,L1732364-S1,P5137,Q6027402,Wikidata item description checked,2550904506,yes,applied
+L1732367,بتانا,L1732367,P9295,Q116946936,PL v.t.,2550904551,yes,applied
+L1732367,بتانا,L1732367,P1343,Q108916279,Platts entry fetched from DSAL,2550904551,yes,applied
+L1732367,بتانا,L1732367-S1,sense + gloss (en),"to tell, inform",PL p.131; WT,2550904551,yes,applied
+L1732370,تھانہ,L1732370,P5185,Q499327,PL s.m.; WT m,2550904591,yes,applied
+L1732370,تھانہ,L1732370,P1343,Q108916279,Platts entry fetched from DSAL,2550904591,yes,applied
+L1732370,تھانہ,L1732370-S1,sense + gloss (en),police station,PL p.346; WT,2550904591,yes,applied
+L1732370,تھانہ,L1732370-S1,P5137,Q861951,Wikidata item description checked,2550904639,yes,applied
+L1732382,پڑوسی,L1732382,P5185,Q499327,PL s.m.; WT m (feminine counterpart پڑوسن),2550904676,yes,applied
+L1732382,پڑوسی,L1732382,P1343,Q108916279,Platts entry fetched from DSAL,2550904676,yes,applied
+L1732382,پڑوسی,L1732382-S1,sense + gloss (en),neighbour,PL p.261; WT,2550904676,yes,applied
+L1732382,پڑوسی,L1732382-S1,P5137,Q1986893,Wikidata item description checked,2550904718,yes,applied
+L1732383,پھسلنا,L1732383,P9295,Q116946937,PL v.n.,2550904766,yes,applied
+L1732383,پھسلنا,L1732383,P1343,Q108916279,Platts entry fetched from DSAL,2550904766,yes,applied
+L1732383,پھسلنا,L1732383-S1,sense + gloss (en),"to slip, slide",PL p.287,2550904766,yes,applied

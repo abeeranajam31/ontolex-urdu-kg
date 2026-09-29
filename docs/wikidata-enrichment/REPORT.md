@@ -1,6 +1,22 @@
-# EMLDS Hindustani lexemes: audit and enrichment proposal
+# EMLDS Hindustani lexemes: audit and enrichment
 
-Status: proposal only. **No edits have been made to Wikidata.** Every figure below comes from the cached API responses in `raw/` (fetched 29 September 2026) and can be regenerated with `python3 build.py`.
+## Outcome (29 September 2026)
+
+After the audit, 26 of the strongest candidates were enriched on Wikidata from `final/final_wikidata_edits.csv`. All 93 planned changes were applied in 40 revisions by Abxxra, then re-fetched and verified. The changes were:
+
+- 26 senses, each with an English gloss;
+- 12 concept links (P5137);
+- 15 genders (P5185);
+- 6 transitivity values (P9295);
+- 25 Platts page references;
+- 7 Urdu Lughat IDs;
+- 2 usage examples, for فوراً and بخار.
+
+Every change was recorded, with its revision ID, in `final/applied_changes.csv`. None was rejected. The uncertain items listed in section 5 were held back and not edited.
+
+The audit that follows is the original proposal. Its statements about the lexemes' state describe them before enrichment.
+
+Status of the audit below: it was written before any edits. Every figure below comes from the cached API responses in `raw/` (fetched 29 September 2026) and can be regenerated with `python3 build.py`.
 
 ## 1. The 117 lexemes
 
@@ -162,7 +178,11 @@ No row is `already_present` today, because the lexemes are empty.
 - **02** summarises by language and category, and counts how many lexemes have senses, gender and a Urdu Lughat ID.
 - **03** lists senses, glosses, P5137 items and usage examples with their sources.
 
-Query 02 was run on query.wikidata.org and returned 75/21/16/5. The verification of 01 and 03 is recorded in README.md.
+All three queries were verified on query.wikidata.org:
+
+- **01** returned the 117 lexemes.
+- **02** returned 75/21/16/5.
+- **03** returns 0 rows for now, because none of the lexemes has a sense yet. With an existing lexeme added (L1082246), it returned that lexeme's senses, glosses and a sourced usage example, so the query itself works.
 
 ## 8. Is it worthwhile?
 

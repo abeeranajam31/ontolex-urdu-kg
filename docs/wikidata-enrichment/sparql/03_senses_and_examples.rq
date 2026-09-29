@@ -1,0 +1,39 @@
+# Senses of the contributed lexemes: glosses, the Wikidata item for the sense
+# (P5137), and any usage example (P5831) stated on the sense with its source
+# (stated in, P248). This is the pattern the existing Hindustani lexemes use.
+# Before enrichment it returns 0 rows, because none of the 117 has a sense yet.
+SELECT ?lexeme ?lemma ?sense ?gloss ?item ?itemLabel ?example ?sourceLabel
+WHERE {
+  VALUES ?lexeme {
+    wd:L1732271 wd:L1732272 wd:L1732273 wd:L1732274 wd:L1732275 wd:L1732276 wd:L1732277 wd:L1732278
+    wd:L1732279 wd:L1732280 wd:L1732281 wd:L1732282 wd:L1732283 wd:L1732284 wd:L1732285 wd:L1732286
+    wd:L1732287 wd:L1732288 wd:L1732289 wd:L1732290 wd:L1732291 wd:L1732292 wd:L1732293 wd:L1732294
+    wd:L1732295 wd:L1732296 wd:L1732297 wd:L1732298 wd:L1732299 wd:L1732300 wd:L1732301 wd:L1732302
+    wd:L1732303 wd:L1732304 wd:L1732305 wd:L1732306 wd:L1732307 wd:L1732308 wd:L1732309 wd:L1732310
+    wd:L1732311 wd:L1732312 wd:L1732313 wd:L1732314 wd:L1732315 wd:L1732316 wd:L1732317 wd:L1732318
+    wd:L1732319 wd:L1732320 wd:L1732321 wd:L1732322 wd:L1732323 wd:L1732324 wd:L1732325 wd:L1732326
+    wd:L1732327 wd:L1732328 wd:L1732329 wd:L1732330 wd:L1732331 wd:L1732332 wd:L1732333 wd:L1732334
+    wd:L1732335 wd:L1732336 wd:L1732337 wd:L1732338 wd:L1732339 wd:L1732340 wd:L1732341 wd:L1732342
+    wd:L1732343 wd:L1732344 wd:L1732345 wd:L1732346 wd:L1732347 wd:L1732348 wd:L1732349 wd:L1732350
+    wd:L1732351 wd:L1732352 wd:L1732353 wd:L1732354 wd:L1732355 wd:L1732356 wd:L1732357 wd:L1732358
+    wd:L1732359 wd:L1732360 wd:L1732361 wd:L1732362 wd:L1732363 wd:L1732364 wd:L1732365 wd:L1732366
+    wd:L1732367 wd:L1732368 wd:L1732369 wd:L1732370 wd:L1732371 wd:L1732372 wd:L1732373 wd:L1732374
+    wd:L1732375 wd:L1732376 wd:L1732377 wd:L1732378 wd:L1732379 wd:L1732380 wd:L1732381 wd:L1732382
+    wd:L1732383 wd:L1732384 wd:L1732385 wd:L1732386 wd:L1732387
+  }
+  ?lexeme a ontolex:LexicalEntry ;
+          wikibase:lemma ?lemma ;
+          ontolex:sense ?sense .
+  FILTER(LANG(?lemma) = "ur")
+  OPTIONAL { ?sense skos:definition ?gloss . }
+  OPTIONAL { ?sense wdt:P5137 ?item . }
+  OPTIONAL {
+    { ?sense p:P5831 ?ex . }                       # example stated on the sense
+    UNION
+    { ?lexeme p:P5831 ?ex . ?ex pq:P6072 ?sense . } # example on the lexeme, qualified with the sense
+    ?ex ps:P5831 ?example .
+    OPTIONAL { ?ex prov:wasDerivedFrom/pr:P248 ?source . }
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,ur". }
+}
+ORDER BY ?lexeme ?sense
