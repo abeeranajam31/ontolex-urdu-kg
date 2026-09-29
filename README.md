@@ -140,6 +140,10 @@ form and record each `L…` id in `lexeme_id`.
   Wikidata was chosen because it has a live, queryable public SPARQL endpoint; DBnary's
   Urdu Wiktionary coverage was not evaluated for this pilot.
 
+## Wikidata lexicographical contribution
+
+193 candidate lemmas were checked against Wikidata. 117 new lexemes were created (L1732271 to L1732387, user Abxxra), and about 26 of them were carefully selected for enrichment. The enrichment edits are proposed and have not yet been applied to Wikidata. Sources and SPARQL are used for validation. The proposal, audit and report are in [`docs/wikidata-enrichment/`](docs/wikidata-enrichment/).
+
 ## License
 
 [MIT](LICENSE)

@@ -1,0 +1,94 @@
+lexeme_id,lemma,property,value,source,confidence,notes
+L1732271,فوراً,sense_gloss_en,"immediately, at once",UL 190251,high,
+L1732271,فوراً,P11350,190251,UL entry fetched and matched by headword and sense,high,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732271,فوراً,P5831,آپ نے لعابِ دہن لگا دیا فوراً وہ تکلیف جاتی رہی,"خیابان آفرینش، ۵۲ (1887), quoted in Urdu Lughat (ref P248 Q18625803, qualifier P6072)",high,"Sense: immediately. Reference: stated in Urdu Lughat (Q18625803) with P11350, plus original work and year. "
+L1732272,جلدی,sense_gloss_en,"quickly, hastily","UL 15165 (adverb); PL p.387 (noun, with adverbial use)",high,
+L1732272,جلدی,P1343,Q108916279; page 387,Platts entry fetched from DSAL,high,
+L1732272,جلدی,P11350,15165,UL entry fetched and matched by headword and sense,high,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732273,مدد,sense_gloss_en,"help, assistance, aid",PL p.1015; UL 83708 s.1; WT,high,
+L1732273,مدد,P5185,feminine (Q1775415),PL s.f.; UL امث; WT f,high,
+L1732273,مدد,P1343,Q108916279; page 1015,Platts entry fetched from DSAL,high,
+L1732273,مدد,P11350,83708,UL entry fetched and matched by headword and sense,high,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732274,سانس,sense_gloss_en,"breath, breathing",PL p.629; UL 146734 s.1; WT,high,
+L1732274,سانس,P5185,feminine (Q1775415),PL s.f.; WT f,high,
+L1732274,سانس,P5137,Q9530,Wikidata item description checked,high,"Q9530 'breathing' (process); matches the 'breathing' sense, review whether 'breath' needs its own sense."
+L1732274,سانس,P1343,Q108916279; page 629,Platts entry fetched from DSAL,high,
+L1732274,سانس,P11350,146734,UL entry fetched and matched by headword and sense,high,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732282,بخار,sense_gloss_en,fever,PL p.138; UL 45868 s.3; WT,high,
+L1732282,بخار,P5185,masculine (Q499327),PL s.m.; UL امذ; WT m,high,
+L1732282,بخار,P5137,Q38933,Wikidata item description checked,high,"Q38933 'fever'; the medical sense only (PL/UL also list 'vapour' and 'anger' senses, not proposed)."
+L1732282,بخار,P1343,Q108916279; page 138,Platts entry fetched from DSAL,high,
+L1732282,بخار,P11350,45868,UL entry fetched and matched by headword and sense,high,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732282,بخار,P5831,برسٹل میں انفلوئنزا کی مریض ایک لڑکی کا بخار ۱۱۴ درجے تک پہنچ گیا,"سیرۃ النبی، ج ۳، ص ۱۳۷ (1923), quoted in Urdu Lughat (ref P248 Q18625803, qualifier P6072)",high,"Sense: fever. Reference: stated in Urdu Lughat (Q18625803) with P11350, plus original work and year. "
+L1732286,توڑنا,sense_gloss_en,to break,PL p.343; UL 62936 s.1; WT,high,
+L1732286,توڑنا,P9295,transitive (Q116946936),PL v.t.; WT t,high,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732286,توڑنا,P1343,Q108916279; page 343,Platts entry fetched from DSAL,high,
+L1732286,توڑنا,P11350,62936,UL entry fetched and matched by headword and sense,high,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732287,درد,sense_gloss_en,"pain, ache",PL p.511; WT,high,
+L1732287,درد,P5185,masculine (Q499327),PL s.m.; WT m,high,
+L1732287,درد,P5137,Q81938,Wikidata item description checked,high,Q81938 'pain'.
+L1732287,درد,P1343,Q108916279; page 511,Platts entry fetched from DSAL,high,
+L1732290,شدید,sense_gloss_en,"severe, intense, violent",PL p.723,high,
+L1732290,شدید,P1343,Q108916279; page 723,Platts entry fetched from DSAL,high,
+L1732296,ہوش,sense_gloss_en,"consciousness, senses",PL p.1241; WT,high,
+L1732296,ہوش,P5185,masculine (Q499327),PL s.m.; WT m,high,
+L1732296,ہوش,P5137,Q7087,Wikidata item description checked,high,"Q7087 'consciousness'; PL has a second, unrelated ہوش 'death' (homograph), not proposed."
+L1732296,ہوش,P1343,Q108916279; page 1241,Platts entry fetched from DSAL,high,
+L1732300,اچانک,sense_gloss_en,"suddenly, unexpectedly",PL p.26; WT,high,
+L1732300,اچانک,P1343,Q108916279; page 26,Platts entry fetched from DSAL,high,
+L1732312,حادثہ,sense_gloss_en,"accident, mishap, calamity",PL p.472; UL 91290; WT,high,
+L1732312,حادثہ,P5185,masculine (Q499327),PL s.m.; WT m,high,
+L1732312,حادثہ,P5137,Q171558,Wikidata item description checked,high,Q171558 'accident'.
+L1732312,حادثہ,P1343,Q108916279; page 472,Platts entry fetched from DSAL,high,
+L1732312,حادثہ,P11350,91290,UL entry fetched and matched by headword and sense,high,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732313,حملہ,sense_gloss_en,"attack, assault",PL p.481; WT,high,
+L1732313,حملہ,P5185,masculine (Q499327),PL s.m.; WT m,high,
+L1732313,حملہ,P5137,Q1174599,Wikidata item description checked,high,Q1174599 'attack: action to injure another organism'.
+L1732313,حملہ,P1343,Q108916279; page 481,Platts entry fetched from DSAL,high,
+L1732321,زخمی,sense_gloss_en,"wounded, injured",PL p.615,high,
+L1732321,زخمی,P1343,Q108916279; page 615,Platts entry fetched from DSAL,high,
+L1732324,سیلاب,sense_gloss_en,"flood, inundation",PL p.712; WT,high,
+L1732324,سیلاب,P5185,masculine (Q499327),PL s.m.; WT m,high,
+L1732324,سیلاب,P5137,Q8068,Wikidata item description checked,high,Q8068 'flood'.
+L1732324,سیلاب,P1343,Q108916279; page 712,Platts entry fetched from DSAL,high,
+L1732327,عمارت,sense_gloss_en,building,PL p.765; WT,high,
+L1732327,عمارت,P5185,feminine (Q1775415),PL s.f.; WT f,high,
+L1732327,عمارت,P5137,Q41176,Wikidata item description checked,high,Q41176 'building'.
+L1732327,عمارت,P1343,Q108916279; page 765,Platts entry fetched from DSAL,high,
+L1732343,پھیلنا,sense_gloss_en,to spread,PL p.294,high,
+L1732343,پھیلنا,P9295,intransitive (Q116946937),PL v.n.,high,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732343,پھیلنا,P1343,Q108916279; page 294,Platts entry fetched from DSAL,high,
+L1732345,پہنچنا,sense_gloss_en,"to arrive, reach",PL p.290; WT,high,
+L1732345,پہنچنا,P9295,intransitive (Q116946937),PL v.n.; WT,high,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732345,پہنچنا,P1343,Q108916279; page 290,Platts entry fetched from DSAL,high,
+L1732348,چنگاری,sense_gloss_en,spark (of fire),PL p.445,high,
+L1732348,چنگاری,P5185,feminine (Q1775415),PL s.f.; existing plural form چنگاریاں fits -ī feminine paradigm,high,
+L1732348,چنگاری,P1343,Q108916279; page 445,Platts entry fetched from DSAL,high,
+L1732358,پھنسنا,sense_gloss_en,"to be caught, get stuck, be trapped",PL p.290,high,
+L1732358,پھنسنا,P9295,intransitive (Q116946937),PL v.n.,high,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732358,پھنسنا,P1343,Q108916279; page 290,Platts entry fetched from DSAL,high,
+L1732359,گلی,sense_gloss_en,"lane, narrow street, alley",PL p.914; WT,high,
+L1732359,گلی,P5185,feminine (Q1775415),PL s.f.; WT f,high,
+L1732359,گلی,P5137,Q1251403,Wikidata item description checked,high,"Q1251403 'alley: narrow street' matches PL 'a narrow street, a lane' better than Q79007 'street'."
+L1732359,گلی,P1343,Q108916279; page 914,Platts entry fetched from DSAL,high,
+L1732363,خراش,sense_gloss_en,"scratch, abrasion",PL p.488; WT,high,
+L1732363,خراش,P5185,feminine (Q1775415),PL s.f.; WT f,high,
+L1732363,خراش,P1343,Q108916279; page 488,Platts entry fetched from DSAL,high,
+L1732364,ٹانگ,sense_gloss_en,leg,PL p.355; WT,high,
+L1732364,ٹانگ,P5185,feminine (Q1775415),PL s.f.; WT f,high,
+L1732364,ٹانگ,P5137,Q6027402,Wikidata item description checked,high,Q6027402 'human leg'; PL: 'the leg (from the hip to the foot)'.
+L1732364,ٹانگ,P1343,Q108916279; page 355,Platts entry fetched from DSAL,high,
+L1732367,بتانا,sense_gloss_en,"to tell, inform",PL p.131; WT,high,
+L1732367,بتانا,P9295,transitive (Q116946936),PL v.t.,high,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732367,بتانا,P1343,Q108916279; page 131,Platts entry fetched from DSAL,high,
+L1732370,تھانہ,sense_gloss_en,police station,PL p.346; WT,high,
+L1732370,تھانہ,P5185,masculine (Q499327),PL s.m.; WT m,high,
+L1732370,تھانہ,P5137,Q861951,Wikidata item description checked,high,Q861951 'police station'.
+L1732370,تھانہ,P1343,Q108916279; page 346,Platts entry fetched from DSAL,high,
+L1732382,پڑوسی,sense_gloss_en,neighbour,PL p.261; WT,high,
+L1732382,پڑوسی,P5185,masculine (Q499327),PL s.m.; WT m (feminine counterpart پڑوسن),high,
+L1732382,پڑوسی,P5137,Q1986893,Wikidata item description checked,high,Q1986893 'neighbor'.
+L1732382,پڑوسی,P1343,Q108916279; page 261,Platts entry fetched from DSAL,high,
+L1732383,پھسلنا,sense_gloss_en,"to slip, slide",PL p.287,high,
+L1732383,پھسلنا,P9295,intransitive (Q116946937),PL v.n.,high,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732383,پھسلنا,P1343,Q108916279; page 287,Platts entry fetched from DSAL,high,

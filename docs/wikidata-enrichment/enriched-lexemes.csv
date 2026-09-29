@@ -1,0 +1,444 @@
+lexeme_id,lemma,lexical_category,existing_sense,proposed_enrichment,property,proposed_value,evidence_source,source_url,confidence,status,notes
+L1732271,فوراً,adverb,none,add sense with English gloss,sense gloss (en),"immediately, at once",UL 190251,,high,missing_confident,
+L1732271,فوراً,adverb,none,add Urdu (ur) gloss to the sense,sense gloss (ur),جلدی سے ، اسی وقت ، جھٹ پٹ ، اسی آن .,UL sense 1,https://udb.gov.pk/result_details.php?word=190251,medium,uncertain_review,Write a short paraphrase rather than copying the UL definition verbatim.
+L1732271,فوراً,adverb,none,Urdu Lughat ID,P11350,190251,UL entry fetched and matched by headword and sense,https://udb.gov.pk/result_details.php?word=190251,high,missing_confident,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732271,فوراً,adverb,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732271,فوراً,adverb,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732271,فوراً,adverb,none,usage example on the sense,P5831 (on sense) + qualifier P6072; ref P248,آپ نے لعابِ دہن لگا دیا فوراً وہ تکلیف جاتی رہی,"خیابان آفرینش، ۵۲ (1887), quoted in Urdu Lughat",https://udb.gov.pk/result_details.php?word=190251,high,missing_confident,"Sense: immediately. Reference: stated in Urdu Lughat (Q18625803) with P11350, plus original work and year. "
+L1732272,جلدی,adverb,none,add sense with English gloss,sense gloss (en),"quickly, hastily","UL 15165 (adverb); PL p.387 (noun, with adverbial use)",,high,missing_confident,
+L1732272,جلدی,adverb,none,add Urdu (ur) gloss to the sense,sense gloss (ur),تیزی سے ، عجلت سے ، فوراً۔,UL sense 1,https://udb.gov.pk/result_details.php?word=15165,medium,uncertain_review,Write a short paraphrase rather than copying the UL definition verbatim.
+L1732272,جلدی,adverb,none,Urdu Lughat ID,P11350,15165,UL entry fetched and matched by headword and sense,https://udb.gov.pk/result_details.php?word=15165,high,missing_confident,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732272,جلدی,adverb,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",387,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=387,high,missing_confident,
+L1732272,جلدی,adverb,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732272,جلدی,adverb,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732273,مدد,noun,none,add sense with English gloss,sense gloss (en),"help, assistance, aid",PL p.1015; UL 83708 s.1; WT,,high,missing_confident,
+L1732273,مدد,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),۱۔ سہارا ، حمایت ، اعانت ، امداد,UL sense 1,https://udb.gov.pk/result_details.php?word=83708,medium,uncertain_review,Write a short paraphrase rather than copying the UL definition verbatim.
+L1732273,مدد,noun,none,grammatical gender,P5185,feminine (Q1775415),PL s.f.; UL امث; WT f,,high,missing_confident,
+L1732273,مدد,noun,none,item for this sense,P5137 (on sense),(none),,,high,do_not_add,No item cleanly matches the abstract sense 'help'; leave P5137 empty.
+L1732273,مدد,noun,none,Urdu Lughat ID,P11350,83708,UL entry fetched and matched by headword and sense,https://udb.gov.pk/result_details.php?word=83708,high,missing_confident,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732273,مدد,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",1015,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=1015,high,missing_confident,
+L1732273,مدد,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732273,مدد,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732273,مدد,noun,none,inflected forms with grammatical features,forms,"مدد [Q110786, Q1751855, Q1775415] | مدد [Q110786, Q1233197, Q1775415]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Mass noun: singular forms only. Generated from the paradigm, not attested; review before adding."
+L1732274,سانس,noun,none,add sense with English gloss,sense gloss (en),"breath, breathing",PL p.629; UL 146734 s.1; WT,,high,missing_confident,
+L1732274,سانس,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),۱. ہوا جو جاندار کے ناک یا مُنھ کی راہ سے پھیپھڑے کے اندر جاتی اور باہر آتی ہے.,UL sense 1,https://udb.gov.pk/result_details.php?word=146734,medium,uncertain_review,Write a short paraphrase rather than copying the UL definition verbatim.
+L1732274,سانس,noun,none,grammatical gender,P5185,feminine (Q1775415),PL s.f.; WT f,,high,missing_confident,
+L1732274,سانس,noun,none,item for this sense,P5137 (on sense),Q9530,Wikidata item description checked,https://www.wikidata.org/wiki/Q9530,high,missing_confident,"Q9530 'breathing' (process); matches the 'breathing' sense, review whether 'breath' needs its own sense."
+L1732274,سانس,noun,none,Urdu Lughat ID,P11350,146734,UL entry fetched and matched by headword and sense,https://udb.gov.pk/result_details.php?word=146734,high,missing_confident,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732274,سانس,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",629,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=629,high,missing_confident,
+L1732274,سانس,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732274,سانس,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732274,سانس,noun,none,inflected forms with grammatical features,forms,"سانس [Q110786, Q1751855, Q1775415] | سانس [Q110786, Q1233197, Q1775415] | سانسیں [Q146786, Q1751855, Q1775415] | سانسوں [Q146786, Q1233197, Q1775415]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Generated from the paradigm, not attested; review before adding."
+L1732275,ایمبولینس,noun,none,add sense with English gloss,sense gloss (en),ambulance,none of PL/WT; UL lookup blocked,,medium,uncertain_review,
+L1732275,ایمبولینس,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732275,ایمبولینس,noun,none,grammatical gender,P5185,unknown,none,,low,uncertain_review,No dictionary source reached; gender must come from UL or another dictionary.
+L1732275,ایمبولینس,noun,none,item for this sense,P5137 (on sense),Q180481,Wikidata item description checked,https://www.wikidata.org/wiki/Q180481,medium,uncertain_review,Q180481 'vehicle equipped for transporting and caring for injured'; unambiguous.
+L1732275,ایمبولینس,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732275,ایمبولینس,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732275,ایمبولینس,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732276,ایکسیڈنٹ,noun,none,add sense with English gloss,sense gloss (en),accident,none of PL/WT; English loan,,medium,uncertain_review,
+L1732276,ایکسیڈنٹ,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732276,ایکسیڈنٹ,noun,none,grammatical gender,P5185,unknown,none,,low,uncertain_review,No dictionary source reached.
+L1732276,ایکسیڈنٹ,noun,none,item for this sense,P5137 (on sense),Q171558,Wikidata item description checked,https://www.wikidata.org/wiki/Q171558,medium,uncertain_review,"Q171558 'accident'; same concept as حادثہ L1732312 (synonym, P5973 could link senses)."
+L1732276,ایکسیڈنٹ,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732276,ایکسیڈنٹ,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732276,ایکسیڈنٹ,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732278,سائیکل,noun,none,add sense with English gloss,sense gloss (en),bicycle,,,medium,uncertain_review,
+L1732278,سائیکل,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),۱. دو پیہوں کی گاڑی جس پر ایک یا دو گدَیاں لگی ہوتی ہیں ، پیروں سے چلائی جاتی ہے ، پیر گاڑی.,UL sense 1,https://udb.gov.pk/result_details.php?word=129543,medium,uncertain_review,Write a short paraphrase rather than copying the UL definition verbatim.
+L1732278,سائیکل,noun,none,grammatical gender,P5185,unknown,none,,low,uncertain_review,Single source.
+L1732278,سائیکل,noun,none,item for this sense,P5137 (on sense),(none),,,high,do_not_add,No item corresponds exactly to the sense.
+L1732278,سائیکل,noun,none,Urdu Lughat ID,P11350,129543,UL entry fetched and matched by headword and sense,https://udb.gov.pk/result_details.php?word=129543,high,missing_confident,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732278,سائیکل,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732278,سائیکل,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732278,سائیکل,noun,none,usage example on the sense,P5831 (on sense) + qualifier P6072; ref P248,دونوں لڑکیاں صحن کے اندر سائیکل چلایا کرتیں,"کارِ جہاں دراز ہے، ۶۵ (1978), quoted in Urdu Lughat",https://udb.gov.pk/result_details.php?word=129543,medium,uncertain_review,"Sense: bicycle. Reference: stated in Urdu Lughat (Q18625803) with P11350, plus original work and year. Post-1950 source (Qurratulain Hyder): check licensing before adding a quotation to CC0 Wikidata."
+L1732279,شخص,noun,none,add sense with English gloss,sense gloss (en),"person, individual",UL امذ,,medium,uncertain_review,
+L1732279,شخص,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),۱. (i) جسم (جو دکھائی دے) ، بدنِ انسان.,UL sense 1,https://udb.gov.pk/result_details.php?word=145178,medium,uncertain_review,Write a short paraphrase rather than copying the UL definition verbatim.
+L1732279,شخص,noun,none,grammatical gender,P5185,masculine (Q499327),UL امذ,,medium,uncertain_review,Single source.
+L1732279,شخص,noun,none,item for this sense,P5137 (on sense),(none),,,high,do_not_add,No item corresponds exactly to the sense.
+L1732279,شخص,noun,none,Urdu Lughat ID,P11350,145178,UL entry fetched and matched by headword and sense,https://udb.gov.pk/result_details.php?word=145178,high,missing_confident,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732279,شخص,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732279,شخص,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732279,شخص,noun,none,usage example on the sense,P5831 (on sense) + qualifier P6072; ref P248,واقعی یہ شخص شیر ہے، فرق اس کا قدر ہے کہ اس وقت شیر اصلی ہو گا اور اب شیر کی تصویر رہ گیا ہے,"باقیات بجنوری، ۴۸ (1911), quoted in Urdu Lughat",https://udb.gov.pk/result_details.php?word=145178,high,missing_confident,"Sense: person. Reference: stated in Urdu Lughat (Q18625803) with P11350, plus original work and year. "
+L1732280,کوشش,noun,none,add sense with English gloss,sense gloss (en),"effort, attempt",UL امث,,medium,uncertain_review,
+L1732280,کوشش,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),سعی، دوڑ دھوپ ، جدوجہد.,UL sense 1,https://udb.gov.pk/result_details.php?word=191286,medium,uncertain_review,Write a short paraphrase rather than copying the UL definition verbatim.
+L1732280,کوشش,noun,none,grammatical gender,P5185,feminine (Q1775415),UL امث,,medium,uncertain_review,Single source.
+L1732280,کوشش,noun,none,item for this sense,P5137 (on sense),(none),,,high,do_not_add,No item corresponds exactly to the sense.
+L1732280,کوشش,noun,none,Urdu Lughat ID,P11350,191286,UL entry fetched and matched by headword and sense,https://udb.gov.pk/result_details.php?word=191286,high,missing_confident,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732280,کوشش,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732280,کوشش,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732280,کوشش,noun,none,usage example on the sense,P5831 (on sense) + qualifier P6072; ref P248,موت کے مہلت نہ دینے سے مقصود میں کوشش کی نوبت نہ آئی,"خیابانِ آفرینش، ۴ (1887), quoted in Urdu Lughat",https://udb.gov.pk/result_details.php?word=191286,high,missing_confident,"Sense: effort. Reference: stated in Urdu Lughat (Q18625803) with P11350, plus original work and year. "
+L1732281,بجلی,noun,none,add sense with English gloss,sense gloss (en),electricity; lightning,PL p.134 (lightning); UL 46618 s.1-2; WT,,high,missing_confident,
+L1732281,بجلی,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),۱. وہ شعلہ نما چمکیلی لہر جو بادلوں کی رگڑ سے پیدا ہوتی ہے ، برق ، صاعقہ.,UL sense 1,https://udb.gov.pk/result_details.php?word=46618,medium,uncertain_review,Write a short paraphrase rather than copying the UL definition verbatim.
+L1732281,بجلی,noun,none,grammatical gender,P5185,feminine (Q1775415),PL s.f.; WT f,,high,missing_confident,"UL entry header shows امذ (masculine); conflicts with PL and WT, probably a transcription error in the online UL. Flag for review."
+L1732281,بجلی,noun,none,item for this sense,P5137 (on sense),Q12725,Wikidata item description checked,https://www.wikidata.org/wiki/Q12725,high,missing_confident,Two senses: electricity Q12725 and lightning Q33741.
+L1732281,بجلی,noun,none,second sense + item,P5137 (on sense 2),Q33741,PL p.134 (lightning); UL 46618 s.1-2; WT,https://www.wikidata.org/wiki/Q33741,high,missing_confident,Separate sense 'lightning' (PL's first gloss).
+L1732281,بجلی,noun,none,Urdu Lughat ID,P11350,46618,UL entry fetched and matched by headword and sense,https://udb.gov.pk/result_details.php?word=46618,high,missing_confident,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732281,بجلی,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",134,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=134,high,missing_confident,
+L1732281,بجلی,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732281,بجلی,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732281,بجلی,noun,none,inflected forms with grammatical features,forms,"بجلی [Q110786, Q1751855, Q1775415] | بجلی [Q110786, Q1233197, Q1775415]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Mass noun: singular forms only. Generated from the paradigm, not attested; review before adding."
+L1732281,بجلی,noun,none,usage example on the sense,P5831 (on sense) + qualifier P6072; ref P248,بجلی کے وہ آفتاب نما چراغ جو شب تاریک کر اپنی ضیا سے مثل روز روشن کر دکھائیں . . . کس کو نصیب,"رسالہ 'حسن'، ۳، ۸: ۷۲ (1890), quoted in Urdu Lughat",https://udb.gov.pk/result_details.php?word=46618,high,missing_confident,"Sense: electricity. Reference: stated in Urdu Lughat (Q18625803) with P11350, plus original work and year. "
+L1732282,بخار,noun,none,add sense with English gloss,sense gloss (en),fever,PL p.138; UL 45868 s.3; WT,,high,missing_confident,
+L1732282,بخار,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),۱- کسی گرم یا ترچیز سے نکلنے والی حرارت ، جسم مادّی کی طبعی گرمی-,UL sense 1,https://udb.gov.pk/result_details.php?word=45868,medium,uncertain_review,Write a short paraphrase rather than copying the UL definition verbatim.
+L1732282,بخار,noun,none,grammatical gender,P5185,masculine (Q499327),PL s.m.; UL امذ; WT m,,high,missing_confident,
+L1732282,بخار,noun,none,item for this sense,P5137 (on sense),Q38933,Wikidata item description checked,https://www.wikidata.org/wiki/Q38933,high,missing_confident,"Q38933 'fever'; the medical sense only (PL/UL also list 'vapour' and 'anger' senses, not proposed)."
+L1732282,بخار,noun,none,Urdu Lughat ID,P11350,45868,UL entry fetched and matched by headword and sense,https://udb.gov.pk/result_details.php?word=45868,high,missing_confident,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732282,بخار,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",138,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=138,high,missing_confident,
+L1732282,بخار,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732282,بخار,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732282,بخار,noun,none,inflected forms with grammatical features,forms,"بخار [Q110786, Q1751855, Q499327] | بخار [Q110786, Q1233197, Q499327]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Mass noun: singular forms only. Generated from the paradigm, not attested; review before adding."
+L1732282,بخار,noun,none,usage example on the sense,P5831 (on sense) + qualifier P6072; ref P248,برسٹل میں انفلوئنزا کی مریض ایک لڑکی کا بخار ۱۱۴ درجے تک پہنچ گیا,"سیرۃ النبی، ج ۳، ص ۱۳۷ (1923), quoted in Urdu Lughat",https://udb.gov.pk/result_details.php?word=45868,high,missing_confident,"Sense: fever. Reference: stated in Urdu Lughat (Q18625803) with P11350, plus original work and year. "
+L1732284,تار,noun,none,add sense with English gloss,sense gloss (en),wire; telegraph,UL امذ,,medium,uncertain_review,
+L1732284,تار,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),۱. تاگا، ڈورا، سوت ، دھاگا,UL sense 1,https://udb.gov.pk/result_details.php?word=56918,medium,uncertain_review,Write a short paraphrase rather than copying the UL definition verbatim.
+L1732284,تار,noun,none,grammatical gender,P5185,masculine (Q499327),UL امذ,,medium,uncertain_review,Single source.
+L1732284,تار,noun,none,item for this sense,P5137 (on sense),(none),,,high,do_not_add,No item corresponds exactly to the sense.
+L1732284,تار,noun,none,Urdu Lughat ID,P11350,56918,UL entry fetched and matched by headword and sense,https://udb.gov.pk/result_details.php?word=56918,high,missing_confident,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732284,تار,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732284,تار,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732284,تار,noun,none,usage example on the sense,P5831 (on sense) + qualifier P6072; ref P248,تار کا سلسلہ ایران کے اندر سے ہندوستان لے جانا مقصود ہے,"اردو دائرہ معارف اسلامیہ، ۶: ۶۵۳ (1968), quoted in Urdu Lughat",https://udb.gov.pk/result_details.php?word=56918,medium,uncertain_review,"Sense: telegraph wire. Reference: stated in Urdu Lughat (Q18625803) with P11350, plus original work and year. Post-1950 source: check licensing. تار is highly polysemous (29 UL senses)."
+L1732286,توڑنا,verb,none,add sense with English gloss,sense gloss (en),to break,PL p.343; UL 62936 s.1; WT,,high,missing_confident,
+L1732286,توڑنا,verb,none,add Urdu (ur) gloss to the sense,sense gloss (ur),۱. (i) ٹکڑے کرنا، شکستہ کرنا.,UL sense 1,https://udb.gov.pk/result_details.php?word=62936,medium,uncertain_review,Write a short paraphrase rather than copying the UL definition verbatim.
+L1732286,توڑنا,verb,none,transitivity,P9295,transitive (Q116946936),PL v.t.; WT t,,high,missing_confident,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732286,توڑنا,verb,none,Urdu Lughat ID,P11350,62936,UL entry fetched and matched by headword and sense,https://udb.gov.pk/result_details.php?word=62936,high,missing_confident,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732286,توڑنا,verb,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",343,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=343,high,missing_confident,
+L1732286,توڑنا,verb,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732286,توڑنا,verb,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732287,درد,noun,none,add sense with English gloss,sense gloss (en),"pain, ache",PL p.511; WT,,high,missing_confident,
+L1732287,درد,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732287,درد,noun,none,grammatical gender,P5185,masculine (Q499327),PL s.m.; WT m,,high,missing_confident,
+L1732287,درد,noun,none,item for this sense,P5137 (on sense),Q81938,Wikidata item description checked,https://www.wikidata.org/wiki/Q81938,high,missing_confident,Q81938 'pain'.
+L1732287,درد,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732287,درد,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",511,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=511,high,missing_confident,
+L1732287,درد,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732287,درد,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732287,درد,noun,none,inflected forms with grammatical features,forms,"درد [Q110786, Q1751855, Q499327] | درد [Q110786, Q1233197, Q499327]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Mass noun: singular forms only. Generated from the paradigm, not attested; review before adding."
+L1732290,شدید,adjective,none,add sense with English gloss,sense gloss (en),"severe, intense, violent",PL p.723,,high,missing_confident,
+L1732290,شدید,adjective,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732290,شدید,adjective,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732290,شدید,adjective,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",723,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=723,high,missing_confident,
+L1732290,شدید,adjective,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732290,شدید,adjective,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732295,گیس,noun,none,add sense with English gloss,sense gloss (en),gas (fuel),WT only,,medium,uncertain_review,
+L1732295,گیس,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732295,گیس,noun,none,grammatical gender,P5185,masculine (Q499327),WT m,,medium,uncertain_review,"Single, secondary source."
+L1732295,گیس,noun,none,item for this sense,P5137 (on sense),(none),,,high,do_not_add,Emergency sense is fuel/cooking gas; WT also glosses 'petrol'. Do not link until the sense is attested.
+L1732295,گیس,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732295,گیس,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732295,گیس,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732296,ہوش,noun,none,add sense with English gloss,sense gloss (en),"consciousness, senses",PL p.1241; WT,,high,missing_confident,
+L1732296,ہوش,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732296,ہوش,noun,none,grammatical gender,P5185,masculine (Q499327),PL s.m.; WT m,,high,missing_confident,
+L1732296,ہوش,noun,none,item for this sense,P5137 (on sense),Q7087,Wikidata item description checked,https://www.wikidata.org/wiki/Q7087,high,missing_confident,"Q7087 'consciousness'; PL has a second, unrelated ہوش 'death' (homograph), not proposed."
+L1732296,ہوش,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732296,ہوش,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",1241,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=1241,high,missing_confident,
+L1732296,ہوش,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732296,ہوش,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732296,ہوش,noun,none,inflected forms with grammatical features,forms,"ہوش [Q110786, Q1751855, Q499327] | ہوش [Q110786, Q1233197, Q499327]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Mass noun: singular forms only. Generated from the paradigm, not attested; review before adding."
+L1732298,الرجی,noun,none,add sense with English gloss,sense gloss (en),allergy,WT only,,medium,uncertain_review,
+L1732298,الرجی,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732298,الرجی,noun,none,grammatical gender,P5185,unknown,none,,low,uncertain_review,"WT is internally inconsistent: head template says m, declension template is feminine (ur-noun-ī-f)."
+L1732298,الرجی,noun,none,item for this sense,P5137 (on sense),Q42982,Wikidata item description checked,https://www.wikidata.org/wiki/Q42982,medium,uncertain_review,Q42982 'allergy'.
+L1732298,الرجی,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732298,الرجی,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732298,الرجی,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732300,اچانک,adverb,none,add sense with English gloss,sense gloss (en),"suddenly, unexpectedly",PL p.26; WT,,high,missing_confident,
+L1732300,اچانک,adverb,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732300,اچانک,adverb,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732300,اچانک,adverb,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",26,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=26,high,missing_confident,
+L1732300,اچانک,adverb,none,Devanagari (hi) lemma,lemma (hi),अचानक,WT hi= parameter,,medium,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732300,اچانک,adverb,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732305,بلانا,verb,none,add sense with English gloss,sense gloss (en),"to call, summon, send for",PL p.164 (bulānā),,high,missing_confident,Homograph bilānā (v.n.) in PL; vocalisation بُلانا identifies this lexeme.
+L1732305,بلانا,verb,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732305,بلانا,verb,none,transitivity,P9295,transitive (Q116946936),PL v.t.,,high,missing_confident,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732305,بلانا,verb,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732305,بلانا,verb,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",164,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=164,high,missing_confident,
+L1732305,بلانا,verb,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732305,بلانا,verb,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732312,حادثہ,noun,none,add sense with English gloss,sense gloss (en),"accident, mishap, calamity",PL p.472; UL 91290; WT,,high,missing_confident,
+L1732312,حادثہ,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732312,حادثہ,noun,none,grammatical gender,P5185,masculine (Q499327),PL s.m.; WT m,,high,missing_confident,
+L1732312,حادثہ,noun,none,item for this sense,P5137 (on sense),Q171558,Wikidata item description checked,https://www.wikidata.org/wiki/Q171558,high,missing_confident,Q171558 'accident'.
+L1732312,حادثہ,noun,none,Urdu Lughat ID,P11350,91290,UL entry fetched and matched by headword and sense,https://udb.gov.pk/result_details.php?word=91290,high,missing_confident,82 of the 83 existing Hindustani lexemes carry P11350.
+L1732312,حادثہ,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",472,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=472,high,missing_confident,
+L1732312,حادثہ,noun,none,Devanagari (hi) lemma,lemma (hi),हादसा,WT hi= parameter,,medium,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732312,حادثہ,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732312,حادثہ,noun,none,inflected forms with grammatical features,forms,"حادثہ [Q110786, Q1751855, Q499327] | حادثے [Q110786, Q1233197, Q499327] | حادثے [Q146786, Q1751855, Q499327] | حادثوں [Q146786, Q1233197, Q499327]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Generated from the paradigm, not attested; review before adding."
+L1732313,حملہ,noun,none,add sense with English gloss,sense gloss (en),"attack, assault",PL p.481; WT,,high,missing_confident,
+L1732313,حملہ,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732313,حملہ,noun,none,grammatical gender,P5185,masculine (Q499327),PL s.m.; WT m,,high,missing_confident,
+L1732313,حملہ,noun,none,item for this sense,P5137 (on sense),Q1174599,Wikidata item description checked,https://www.wikidata.org/wiki/Q1174599,high,missing_confident,Q1174599 'attack: action to injure another organism'.
+L1732313,حملہ,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732313,حملہ,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",481,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=481,high,missing_confident,
+L1732313,حملہ,noun,none,Devanagari (hi) lemma,lemma (hi),हमला,WT hi= parameter,,medium,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732313,حملہ,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732313,حملہ,noun,none,inflected forms with grammatical features,forms,"حملہ [Q110786, Q1751855, Q499327] | حملے [Q110786, Q1233197, Q499327] | حملے [Q146786, Q1751855, Q499327] | حملوں [Q146786, Q1233197, Q499327]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Generated from the paradigm, not attested; review before adding."
+L1732316,خطرناک,adjective,none,add sense with English gloss,sense gloss (en),dangerous,WT only,,medium,uncertain_review,
+L1732316,خطرناک,adjective,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732316,خطرناک,adjective,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732316,خطرناک,adjective,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732316,خطرناک,adjective,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732319,دھماکہ,noun,none,add sense with English gloss,sense gloss (en),"explosion, blast",WT; PL not found under this spelling,,high,missing_confident,
+L1732319,دھماکہ,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732319,دھماکہ,noun,none,grammatical gender,P5185,masculine (Q499327),WT m; existing form دھماکے fits the masculine -ah paradigm,,medium,uncertain_review,Only one dictionary source; confirm in UL.
+L1732319,دھماکہ,noun,none,item for this sense,P5137 (on sense),Q179057,Wikidata item description checked,https://www.wikidata.org/wiki/Q179057,high,missing_confident,Q179057 'explosion'.
+L1732319,دھماکہ,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732319,دھماکہ,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732319,دھماکہ,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732319,دھماکہ,noun,none,inflected forms with grammatical features,forms,"دھماکہ [Q110786, Q1751855, Q499327] | دھماکے [Q110786, Q1233197, Q499327] | دھماکے [Q146786, Q1751855, Q499327] | دھماکوں [Q146786, Q1233197, Q499327]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Existing forms: دھماکے. Generated from the paradigm, not attested; review before adding."
+L1732321,زخمی,adjective,none,add sense with English gloss,sense gloss (en),"wounded, injured",PL p.615,,high,missing_confident,
+L1732321,زخمی,adjective,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732321,زخمی,adjective,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732321,زخمی,adjective,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",615,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=615,high,missing_confident,
+L1732321,زخمی,adjective,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732321,زخمی,adjective,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732322,زخمی,noun,none,add sense with English gloss,sense gloss (en),wounded person,PL p.615 ('adj. & s.m.f.'),,medium,uncertain_review,
+L1732322,زخمی,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732322,زخمی,noun,none,grammatical gender,P5185,(none),PL p.615 'adj. & s.m.f.',,high,do_not_add,"PL gives s.m.f.: gender follows the referent, so P5185 should NOT be set to one value."
+L1732322,زخمی,noun,none,item for this sense,P5137 (on sense),(none),,,high,do_not_add,Q1230687 'injured person' is a Polish criminal-procedure concept; do NOT link.
+L1732322,زخمی,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732322,زخمی,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",615,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=615,high,missing_confident,
+L1732322,زخمی,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732322,زخمی,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732324,سیلاب,noun,none,add sense with English gloss,sense gloss (en),"flood, inundation",PL p.712; WT,,high,missing_confident,
+L1732324,سیلاب,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732324,سیلاب,noun,none,grammatical gender,P5185,masculine (Q499327),PL s.m.; WT m,,high,missing_confident,
+L1732324,سیلاب,noun,none,item for this sense,P5137 (on sense),Q8068,Wikidata item description checked,https://www.wikidata.org/wiki/Q8068,high,missing_confident,Q8068 'flood'.
+L1732324,سیلاب,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732324,سیلاب,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",712,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=712,high,missing_confident,
+L1732324,سیلاب,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732324,سیلاب,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732324,سیلاب,noun,none,inflected forms with grammatical features,forms,"سیلاب [Q110786, Q1751855, Q499327] | سیلاب [Q110786, Q1233197, Q499327] | سیلاب [Q146786, Q1751855, Q499327] | سیلابوں [Q146786, Q1233197, Q499327]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Generated from the paradigm, not attested; review before adding."
+L1732325,سینہ,noun,none,add sense with English gloss,sense gloss (en),"chest, breast",WT; PL not found under this spelling,,medium,uncertain_review,
+L1732325,سینہ,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732325,سینہ,noun,none,grammatical gender,P5185,masculine (Q499327),WT m,,medium,uncertain_review,Single source.
+L1732325,سینہ,noun,none,item for this sense,P5137 (on sense),Q9645,Wikidata item description checked,https://www.wikidata.org/wiki/Q9645,medium,uncertain_review,Q9645 'thorax' (anatomical region); medium confidence.
+L1732325,سینہ,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732325,سینہ,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732325,سینہ,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732327,عمارت,noun,none,add sense with English gloss,sense gloss (en),building,PL p.765; WT,,high,missing_confident,
+L1732327,عمارت,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732327,عمارت,noun,none,grammatical gender,P5185,feminine (Q1775415),PL s.f.; WT f,,high,missing_confident,
+L1732327,عمارت,noun,none,item for this sense,P5137 (on sense),Q41176,Wikidata item description checked,https://www.wikidata.org/wiki/Q41176,high,missing_confident,Q41176 'building'.
+L1732327,عمارت,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732327,عمارت,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",765,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=765,high,missing_confident,
+L1732327,عمارت,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732327,عمارت,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732327,عمارت,noun,none,inflected forms with grammatical features,forms,"عمارت [Q110786, Q1751855, Q1775415] | عمارت [Q110786, Q1233197, Q1775415] | عمارتیں [Q146786, Q1751855, Q1775415] | عمارتوں [Q146786, Q1233197, Q1775415]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Generated from the paradigm, not attested; review before adding."
+L1732328,فائرنگ,noun,none,add sense with English gloss,sense gloss (en),"gunfire, shooting",none; English loan,,medium,uncertain_review,
+L1732328,فائرنگ,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732328,فائرنگ,noun,none,grammatical gender,P5185,unknown,none,,low,uncertain_review,Single source.
+L1732328,فائرنگ,noun,none,item for this sense,P5137 (on sense),Q2992372,Wikidata item description checked,https://www.wikidata.org/wiki/Q2992372,medium,uncertain_review,Q2992372 'gunshot'; check whether 'gunfire' is closer.
+L1732328,فائرنگ,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732328,فائرنگ,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732328,فائرنگ,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732333,مشکوک,adjective,none,add sense with English gloss,sense gloss (en),"doubtful, suspicious",WT only,,medium,uncertain_review,
+L1732333,مشکوک,adjective,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732333,مشکوک,adjective,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732333,مشکوک,adjective,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732333,مشکوک,adjective,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732338,ٹکر,noun,none,add sense with English gloss,sense gloss (en),"collision, crash",WT only,,medium,uncertain_review,
+L1732338,ٹکر,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732338,ٹکر,noun,none,grammatical gender,P5185,feminine (Q1775415),WT f,,medium,uncertain_review,Single source.
+L1732338,ٹکر,noun,none,item for this sense,P5137 (on sense),(none),,,high,do_not_add,Q9687 'traffic collision' is narrower than the word; do not link.
+L1732338,ٹکر,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732338,ٹکر,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732338,ٹکر,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732343,پھیلنا,verb,none,add sense with English gloss,sense gloss (en),to spread,PL p.294,,high,missing_confident,
+L1732343,پھیلنا,verb,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732343,پھیلنا,verb,none,transitivity,P9295,intransitive (Q116946937),PL v.n.,,high,missing_confident,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732343,پھیلنا,verb,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732343,پھیلنا,verb,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",294,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=294,high,missing_confident,
+L1732343,پھیلنا,verb,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732343,پھیلنا,verb,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732345,پہنچنا,verb,none,add sense with English gloss,sense gloss (en),"to arrive, reach",PL p.290; WT,,high,missing_confident,
+L1732345,پہنچنا,verb,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732345,پہنچنا,verb,none,transitivity,P9295,intransitive (Q116946937),PL v.n.; WT,,high,missing_confident,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732345,پہنچنا,verb,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732345,پہنچنا,verb,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",290,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=290,high,missing_confident,
+L1732345,پہنچنا,verb,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732345,پہنچنا,verb,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732347,چاقو,noun,none,add sense with English gloss,sense gloss (en),knife,WT; PL not found under this spelling,,medium,uncertain_review,
+L1732347,چاقو,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732347,چاقو,noun,none,grammatical gender,P5185,masculine (Q499327),WT m,,medium,uncertain_review,Single source.
+L1732347,چاقو,noun,none,item for this sense,P5137 (on sense),Q32489,Wikidata item description checked,https://www.wikidata.org/wiki/Q32489,medium,uncertain_review,Q32489 'knife'.
+L1732347,چاقو,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732347,چاقو,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732347,چاقو,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732348,چنگاری,noun,none,add sense with English gloss,sense gloss (en),spark (of fire),PL p.445,,high,missing_confident,
+L1732348,چنگاری,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732348,چنگاری,noun,none,grammatical gender,P5185,feminine (Q1775415),PL s.f.; existing plural form چنگاریاں fits -ī feminine paradigm,,high,missing_confident,
+L1732348,چنگاری,noun,none,item for this sense,P5137 (on sense),(none),,,high,do_not_add,No suitable item found by search for 'spark'; leave P5137 empty.
+L1732348,چنگاری,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732348,چنگاری,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",445,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=445,high,missing_confident,
+L1732348,چنگاری,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732348,چنگاری,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732348,چنگاری,noun,none,inflected forms with grammatical features,forms,"چنگاری [Q110786, Q1751855, Q1775415] | چنگاری [Q110786, Q1233197, Q1775415] | چنگاریاں [Q146786, Q1751855, Q1775415] | چنگاریوں [Q146786, Q1233197, Q1775415]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Existing forms: چنگاریاں. Generated from the paradigm, not attested; review before adding."
+L1732350,ڈاکو,noun,none,add sense with English gloss,sense gloss (en),"bandit, robber",WT; PL not found under this spelling,,medium,uncertain_review,
+L1732350,ڈاکو,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732350,ڈاکو,noun,none,grammatical gender,P5185,masculine (Q499327),WT m,,medium,uncertain_review,Single source.
+L1732350,ڈاکو,noun,none,item for this sense,P5137 (on sense),Q16144978,Wikidata item description checked,https://www.wikidata.org/wiki/Q16144978,medium,uncertain_review,Q16144978 'bandit'.
+L1732350,ڈاکو,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732350,ڈاکو,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732350,ڈاکو,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732355,ہسپتال,noun,none,add sense with English gloss,sense gloss (en),hospital,none of PL/WT; UL lookup blocked,,medium,uncertain_review,
+L1732355,ہسپتال,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732355,ہسپتال,noun,none,grammatical gender,P5185,unknown,none,,low,uncertain_review,No dictionary source reached. Variant spelling اسپتال also common.
+L1732355,ہسپتال,noun,none,item for this sense,P5137 (on sense),Q16917,Wikidata item description checked,https://www.wikidata.org/wiki/Q16917,medium,uncertain_review,Q16917 'hospital'.
+L1732355,ہسپتال,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732355,ہسپتال,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732355,ہسپتال,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732358,پھنسنا,verb,none,add sense with English gloss,sense gloss (en),"to be caught, get stuck, be trapped",PL p.290,,high,missing_confident,
+L1732358,پھنسنا,verb,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732358,پھنسنا,verb,none,transitivity,P9295,intransitive (Q116946937),PL v.n.,,high,missing_confident,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732358,پھنسنا,verb,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732358,پھنسنا,verb,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",290,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=290,high,missing_confident,
+L1732358,پھنسنا,verb,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732358,پھنسنا,verb,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732359,گلی,noun,none,add sense with English gloss,sense gloss (en),"lane, narrow street, alley",PL p.914; WT,,high,missing_confident,
+L1732359,گلی,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732359,گلی,noun,none,grammatical gender,P5185,feminine (Q1775415),PL s.f.; WT f,,high,missing_confident,
+L1732359,گلی,noun,none,item for this sense,P5137 (on sense),Q1251403,Wikidata item description checked,https://www.wikidata.org/wiki/Q1251403,high,missing_confident,"Q1251403 'alley: narrow street' matches PL 'a narrow street, a lane' better than Q79007 'street'."
+L1732359,گلی,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732359,گلی,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",914,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=914,high,missing_confident,
+L1732359,گلی,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732359,گلی,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732359,گلی,noun,none,inflected forms with grammatical features,forms,"گلی [Q110786, Q1751855, Q1775415] | گلی [Q110786, Q1233197, Q1775415] | گلیاں [Q146786, Q1751855, Q1775415] | گلیوں [Q146786, Q1233197, Q1775415]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Generated from the paradigm, not attested; review before adding."
+L1732363,خراش,noun,none,add sense with English gloss,sense gloss (en),"scratch, abrasion",PL p.488; WT,,high,missing_confident,
+L1732363,خراش,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732363,خراش,noun,none,grammatical gender,P5185,feminine (Q1775415),PL s.f.; WT f,,high,missing_confident,
+L1732363,خراش,noun,none,item for this sense,P5137 (on sense),Q939378,Wikidata item description checked,https://www.wikidata.org/wiki/Q939378,high,missing_confident,Q939378 'skin abrasion'; medium confidence.
+L1732363,خراش,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732363,خراش,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",488,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=488,high,missing_confident,
+L1732363,خراش,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732363,خراش,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732363,خراش,noun,none,inflected forms with grammatical features,forms,"خراش [Q110786, Q1751855, Q1775415] | خراش [Q110786, Q1233197, Q1775415] | خراشیں [Q146786, Q1751855, Q1775415] | خراشوں [Q146786, Q1233197, Q1775415]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Generated from the paradigm, not attested; review before adding."
+L1732364,ٹانگ,noun,none,add sense with English gloss,sense gloss (en),leg,PL p.355; WT,,high,missing_confident,
+L1732364,ٹانگ,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732364,ٹانگ,noun,none,grammatical gender,P5185,feminine (Q1775415),PL s.f.; WT f,,high,missing_confident,
+L1732364,ٹانگ,noun,none,item for this sense,P5137 (on sense),Q6027402,Wikidata item description checked,https://www.wikidata.org/wiki/Q6027402,high,missing_confident,Q6027402 'human leg'; PL: 'the leg (from the hip to the foot)'.
+L1732364,ٹانگ,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732364,ٹانگ,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",355,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=355,high,missing_confident,
+L1732364,ٹانگ,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732364,ٹانگ,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732364,ٹانگ,noun,none,inflected forms with grammatical features,forms,"ٹانگ [Q110786, Q1751855, Q1775415] | ٹانگ [Q110786, Q1233197, Q1775415] | ٹانگیں [Q146786, Q1751855, Q1775415] | ٹانگوں [Q146786, Q1233197, Q1775415]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Generated from the paradigm, not attested; review before adding."
+L1732365,ڈاکٹر,noun,none,add sense with English gloss,sense gloss (en),"doctor, physician",WT; English loan,,medium,uncertain_review,
+L1732365,ڈاکٹر,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732365,ڈاکٹر,noun,none,grammatical gender,P5185,masculine (Q499327),WT m,,medium,uncertain_review,Single source.
+L1732365,ڈاکٹر,noun,none,item for this sense,P5137 (on sense),Q39631,Wikidata item description checked,https://www.wikidata.org/wiki/Q39631,medium,uncertain_review,Q39631 'physician'.
+L1732365,ڈاکٹر,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732365,ڈاکٹر,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732365,ڈاکٹر,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732366,گھسنا,verb,none,add sense with English gloss,sense gloss (en),"to enter, force one's way in (ghusnā) OR to rub (ghisnā)",PL p.934,,medium,uncertain_review,Homograph: which verb was intended by the corpus? Resolve before any edit.
+L1732366,گھسنا,verb,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732366,گھسنا,verb,none,transitivity,P9295,unknown,,,low,uncertain_review,Homograph: which verb was intended by the corpus? Resolve before any edit.
+L1732366,گھسنا,verb,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732366,گھسنا,verb,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",934,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=934,high,missing_confident,
+L1732366,گھسنا,verb,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732366,گھسنا,verb,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732367,بتانا,verb,none,add sense with English gloss,sense gloss (en),"to tell, inform",PL p.131; WT,,high,missing_confident,
+L1732367,بتانا,verb,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732367,بتانا,verb,none,transitivity,P9295,transitive (Q116946936),PL v.t.,,high,missing_confident,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732367,بتانا,verb,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732367,بتانا,verb,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",131,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=131,high,missing_confident,
+L1732367,بتانا,verb,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732367,بتانا,verb,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732368,بجھانا,verb,none,add sense with English gloss,sense gloss (en),"to extinguish, put out (a fire)","PL p.135 (bujhānā, 3rd entry)",,high,missing_confident,PL lists homographs bajhānā and bujhānā 'to explain'; this is bujhānā 'to put out'.
+L1732368,بجھانا,verb,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732368,بجھانا,verb,none,transitivity,P9295,transitive (Q116946936),PL v.t.,,high,missing_confident,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732368,بجھانا,verb,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732368,بجھانا,verb,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",135,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=135,high,missing_confident,
+L1732368,بجھانا,verb,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732368,بجھانا,verb,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732369,بدبو,noun,none,add sense with English gloss,sense gloss (en),"bad smell, stench",WT (as alternative spelling of بد بو),,medium,uncertain_review,
+L1732369,بدبو,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732369,بدبو,noun,none,grammatical gender,P5185,unknown,none,,low,uncertain_review,No gender in WT; PL has it under بد + بو.
+L1732369,بدبو,noun,none,item for this sense,P5137 (on sense),Q1519476,Wikidata item description checked,https://www.wikidata.org/wiki/Q1519476,medium,uncertain_review,Q1519476 'stink'.
+L1732369,بدبو,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732369,بدبو,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732369,بدبو,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732370,تھانہ,noun,none,add sense with English gloss,sense gloss (en),police station,PL p.346; WT,,high,missing_confident,
+L1732370,تھانہ,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732370,تھانہ,noun,none,grammatical gender,P5185,masculine (Q499327),PL s.m.; WT m,,high,missing_confident,
+L1732370,تھانہ,noun,none,item for this sense,P5137 (on sense),Q861951,Wikidata item description checked,https://www.wikidata.org/wiki/Q861951,high,missing_confident,Q861951 'police station'.
+L1732370,تھانہ,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732370,تھانہ,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",346,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=346,high,missing_confident,
+L1732370,تھانہ,noun,none,Devanagari (hi) lemma,lemma (hi),थाना,WT hi= parameter,,medium,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732370,تھانہ,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732370,تھانہ,noun,none,inflected forms with grammatical features,forms,"تھانہ [Q110786, Q1751855, Q499327] | تھانے [Q110786, Q1233197, Q499327] | تھانے [Q146786, Q1751855, Q499327] | تھانوں [Q146786, Q1233197, Q499327]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Existing forms: تھانے. Generated from the paradigm, not attested; review before adding."
+L1732372,جلن,noun,none,add sense with English gloss,sense gloss (en),"burning, burning sensation; envy",PL p.387,,medium,uncertain_review,
+L1732372,جلن,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732372,جلن,noun,none,grammatical gender,P5185,unknown,none,,low,uncertain_review,"PL gives 's.m. & f.'; usage-dependent, review."
+L1732372,جلن,noun,none,item for this sense,P5137 (on sense),Q3645517,Wikidata item description checked,https://www.wikidata.org/wiki/Q3645517,medium,uncertain_review,Q3645517 'burning sensation' fits only the medical sense.
+L1732372,جلن,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732372,جلن,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",387,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=387,high,missing_confident,
+L1732372,جلن,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732372,جلن,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732374,دورہ,noun,none,add sense with English gloss,sense gloss (en),"fit, attack (of illness); tour",PL p.533 (tour/round senses only),,medium,uncertain_review,
+L1732374,دورہ,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732374,دورہ,noun,none,grammatical gender,P5185,masculine (Q499327),PL s.m.,,medium,uncertain_review,Single source.
+L1732374,دورہ,noun,none,item for this sense,P5137 (on sense),(none),,,high,do_not_add,The medical 'seizure/fit' sense is not in the PL snippet; do not link Q6279182 until a source attests it.
+L1732374,دورہ,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732374,دورہ,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",533,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=533,high,missing_confident,
+L1732374,دورہ,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732374,دورہ,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732381,نہر,noun,none,add sense with English gloss,sense gloss (en),canal; stream,PL p.1162,,high,missing_confident,
+L1732381,نہر,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732381,نہر,noun,none,grammatical gender,P5185,feminine (Q1775415),PL s.f.,,medium,uncertain_review,Single source.
+L1732381,نہر,noun,none,item for this sense,P5137 (on sense),Q12284,Wikidata item description checked,https://www.wikidata.org/wiki/Q12284,high,missing_confident,Q12284 'canal'; PL says 'canal' is the commonest meaning.
+L1732381,نہر,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732381,نہر,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",1162,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=1162,high,missing_confident,
+L1732381,نہر,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732381,نہر,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732381,نہر,noun,none,inflected forms with grammatical features,forms,"نہر [Q110786, Q1751855, Q1775415] | نہر [Q110786, Q1233197, Q1775415] | نہریں [Q146786, Q1751855, Q1775415] | نہروں [Q146786, Q1233197, Q1775415]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Generated from the paradigm, not attested; review before adding."
+L1732382,پڑوسی,noun,none,add sense with English gloss,sense gloss (en),neighbour,PL p.261; WT,,high,missing_confident,
+L1732382,پڑوسی,noun,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732382,پڑوسی,noun,none,grammatical gender,P5185,masculine (Q499327),PL s.m.; WT m (feminine counterpart پڑوسن),,high,missing_confident,
+L1732382,پڑوسی,noun,none,item for this sense,P5137 (on sense),Q1986893,Wikidata item description checked,https://www.wikidata.org/wiki/Q1986893,high,missing_confident,Q1986893 'neighbor'.
+L1732382,پڑوسی,noun,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732382,پڑوسی,noun,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",261,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=261,high,missing_confident,
+L1732382,پڑوسی,noun,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732382,پڑوسی,noun,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732382,پڑوسی,noun,none,inflected forms with grammatical features,forms,"پڑوسی [Q110786, Q1751855, Q499327] | پڑوسی [Q110786, Q1233197, Q499327] | پڑوسی [Q146786, Q1751855, Q499327] | پڑوسیوں [Q146786, Q1233197, Q499327]",regular Hindustani noun paradigm (as in Wiktionary declension tables),,medium,uncertain_review,"Generated from the paradigm, not attested; review before adding."
+L1732383,پھسلنا,verb,none,add sense with English gloss,sense gloss (en),"to slip, slide",PL p.287,,high,missing_confident,
+L1732383,پھسلنا,verb,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732383,پھسلنا,verb,none,transitivity,P9295,intransitive (Q116946937),PL v.n.,,high,missing_confident,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732383,پھسلنا,verb,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732383,پھسلنا,verb,none,described by source,"P1343 = Q108916279 (Platts), qualifier P304 page",287,Platts entry fetched from DSAL,https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?page=287,high,missing_confident,
+L1732383,پھسلنا,verb,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732383,پھسلنا,verb,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732384,پھٹنا,verb,none,add sense with English gloss,sense gloss (en),"to burst, split",not found in PL under this spelling,,medium,uncertain_review,
+L1732384,پھٹنا,verb,none,add Urdu (ur) gloss to the sense,sense gloss (ur),,none,,low,uncertain_review,Needs an Urdu-language source.
+L1732384,پھٹنا,verb,none,transitivity,P9295,intransitive (Q116946937),,,medium,uncertain_review,Follows the P9295 convention used by 22 of the 83 existing Hindustani lexemes.
+L1732384,پھٹنا,verb,none,Urdu Lughat ID,P11350,(to look up),UL site blocked this address after 16 lookups,,low,uncertain_review,Look up by hand on udb.gov.pk.
+L1732384,پھٹنا,verb,none,Devanagari (hi) lemma,lemma (hi),,,,low,uncertain_review,"83 of 83 existing matched lexemes have ur+hi lemmas; transliteration is an editorial decision, review each."
+L1732384,پھٹنا,verb,none,pronunciation,P898 (on form),(none),only Wiktionary's template-generated IPA,,high,do_not_add,No attested pronunciation source; do not guess.
+L1732286,توڑنا,verb,none,grammatical features for existing form,form L1732286-F1,توڑ,,https://www.wikidata.org/wiki/Lexeme:L1732286,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732286,توڑنا,verb,none,grammatical features for existing form,form L1732286-F2,توڑنے,,https://www.wikidata.org/wiki/Lexeme:L1732286,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732288,دیکھنا,verb,none,grammatical features for existing form,form L1732288-F1,دیکھ,,https://www.wikidata.org/wiki/Lexeme:L1732288,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732288,دیکھنا,verb,none,grammatical features for existing form,form L1732288-F2,دیکھا,,https://www.wikidata.org/wiki/Lexeme:L1732288,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732293,علاقہ,noun,none,grammatical features for existing form,form L1732293-F1,علاقے,,https://www.wikidata.org/wiki/Lexeme:L1732293,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732299,الٹنا,verb,none,grammatical features for existing form,form L1732299-F1,الٹ,,https://www.wikidata.org/wiki/Lexeme:L1732299,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732305,بلانا,verb,none,grammatical features for existing form,form L1732305-F1,بلا,,https://www.wikidata.org/wiki/Lexeme:L1732305,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732307,بڑھنا,verb,none,grammatical features for existing form,form L1732307-F1,بڑھتی,,https://www.wikidata.org/wiki/Lexeme:L1732307,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732308,بھرنا,verb,none,grammatical features for existing form,form L1732308-F1,بھر,,https://www.wikidata.org/wiki/Lexeme:L1732308,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732314,خانہ,noun,none,grammatical features for existing form,form L1732314-F1,خانے,,https://www.wikidata.org/wiki/Lexeme:L1732314,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732319,دھماکہ,noun,none,grammatical features for existing form,form L1732319-F1,دھماکے,,https://www.wikidata.org/wiki/Lexeme:L1732319,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732325,سینہ,noun,none,grammatical features for existing form,form L1732325-F1,سینے,,https://www.wikidata.org/wiki/Lexeme:L1732325,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732330,لپٹنا,verb,none,grammatical features for existing form,form L1732330-F1,لپٹ,,https://www.wikidata.org/wiki/Lexeme:L1732330,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732331,لڑکا,noun,none,grammatical features for existing form,form L1732331-F1,لڑکے,,https://www.wikidata.org/wiki/Lexeme:L1732331,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732343,پھیلنا,verb,none,grammatical features for existing form,form L1732343-F1,پھیل,,https://www.wikidata.org/wiki/Lexeme:L1732343,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732345,پہنچنا,verb,none,grammatical features for existing form,form L1732345-F1,پہنچ,,https://www.wikidata.org/wiki/Lexeme:L1732345,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732348,چنگاری,noun,none,grammatical features for existing form,form L1732348-F1,چنگاریاں,,https://www.wikidata.org/wiki/Lexeme:L1732348,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732349,چھیننا,verb,none,grammatical features for existing form,form L1732349-F1,چھین,,https://www.wikidata.org/wiki/Lexeme:L1732349,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732353,گھومنا,verb,none,grammatical features for existing form,form L1732353-F1,گھوم,,https://www.wikidata.org/wiki/Lexeme:L1732353,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732356,ہلنا,verb,none,grammatical features for existing form,form L1732356-F1,ہل,,https://www.wikidata.org/wiki/Lexeme:L1732356,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732358,پھنسنا,verb,none,grammatical features for existing form,form L1732358-F1,پھنسے,,https://www.wikidata.org/wiki/Lexeme:L1732358,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732360,ہلکا,adjective,none,grammatical features for existing form,form L1732360-F1,ہلکی,,https://www.wikidata.org/wiki/Lexeme:L1732360,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732366,گھسنا,verb,none,grammatical features for existing form,form L1732366-F1,گھس,,https://www.wikidata.org/wiki/Lexeme:L1732366,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732366,گھسنا,verb,none,grammatical features for existing form,form L1732366-F2,گھسنے,,https://www.wikidata.org/wiki/Lexeme:L1732366,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732367,بتانا,verb,none,grammatical features for existing form,form L1732367-F1,بتا,,https://www.wikidata.org/wiki/Lexeme:L1732367,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732368,بجھانا,verb,none,grammatical features for existing form,form L1732368-F1,بجھانے,,https://www.wikidata.org/wiki/Lexeme:L1732368,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732370,تھانہ,noun,none,grammatical features for existing form,form L1732370-F1,تھانے,,https://www.wikidata.org/wiki/Lexeme:L1732370,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732383,پھسلنا,verb,none,grammatical features for existing form,form L1732383-F1,پھسل,,https://www.wikidata.org/wiki/Lexeme:L1732383,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732384,پھٹنا,verb,none,grammatical features for existing form,form L1732384-F1,پھٹ,,https://www.wikidata.org/wiki/Lexeme:L1732384,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
+L1732386,کروانا,verb,none,grammatical features for existing form,form L1732386-F1,کروانے,,https://www.wikidata.org/wiki/Lexeme:L1732386,low,uncertain_review,"Form has no grammatical features; assign them, or remove it if it is not a paradigm form."
