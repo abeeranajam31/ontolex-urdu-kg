@@ -108,6 +108,21 @@ curl "http://localhost:8010/sparql?query=SELECT%20%3Fs%20WHERE%20%7B%3Fs%20a%20%
 python -m pytest tests/ -v
 ```
 
+## Contributing the lexicon to Wikidata
+
+Lemmas come from automatic lemmatization, so each one is reviewed by hand
+before it goes to Wikidata. To produce the review sheet (one row per
+entry, with the Wikidata language and lexical-category items, other
+forms, and an example sentence):
+
+```bash
+python -m scripts.export_wikidata_review --out output/wikidata_review.csv
+```
+
+Mark `keep=y` for real Urdu lemmas, check whether the lexeme already
+exists on Wikidata, then add the new ones through Wikidata's new-lexeme
+form and record each `L…` id in `lexeme_id`.
+
 ## Honest Limitations
 
 - **Input is pre-transcribed text for the demonstrated pipeline runs**, reusing the
